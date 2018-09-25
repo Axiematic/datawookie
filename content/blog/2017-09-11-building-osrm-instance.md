@@ -22,11 +22,11 @@ Building OSRM is memory intensive, so unless you are installing on a machine wit
 
 ## Building OSRM
 
-First make sure that you have the necessary infrastructure and libraries required to build OSRM.
+First make sure that you have the necessary infrastructure and libraries required to build OSRM. Strictly `htop` is not necessary but it's handy for monitoring performance.
 
 {{< highlight bash >}}
 sudo apt update
-sudo apt install -y git cmake build-essential jq
+sudo apt install -y git cmake build-essential jq htop
 sudo apt install -y liblua5.2-dev libboost-all-dev libprotobuf-dev libtbb-dev libstxxl-dev libbz2-dev
 {{< /highlight >}}
 
@@ -42,10 +42,10 @@ Move into the source folder.
 cd osrm-backend/
 {{< /highlight >}}
 
-Although you could probably just build from the current state of the repository, it might make sense to choose the most recent [release](https://github.com/Project-OSRM/osrm-backend/releases). So, for example, to checkout version v5.16.4:
+Although you could probably just build from the current state of the repository, it might make sense to choose the most recent [release](https://github.com/Project-OSRM/osrm-backend/releases). So, for example, to checkout version v5.18.0:
 
 {{< highlight bash >}}
-git checkout v5.16.4
+git checkout v5.18.0
 {{< /highlight >}}
 
 Create a `build` folder and then run `cmake` to generate Makefiles.
@@ -69,6 +69,10 @@ When the build completes, make the `install` target.
 {{< highlight bash >}}
 sudo make install
 {{< /highlight >}}
+
+The complete recipe above is available as a [gist](https://gist.github.com/DataWookie/6403a0fe3692d03b15627eae6d6d2ad0).
+
+<script src="https://gist.github.com/DataWookie/6403a0fe3692d03b15627eae6d6d2ad0.js"></script>
 
 ## Getting OpenStreetMap Data
 

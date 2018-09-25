@@ -69,58 +69,52 @@ These commands will do the following:
 alias mkvirtualenv="mkvirtualenv -p /usr/bin/python3"
 {% endhighlight %}
             
-            ## Use
-            
-            ### Creating a Virtual Environment
-            
-            To create a new virtual environment, do the following:
+## Use
+
+### Creating a Virtual Environment
+
+To create a new virtual environment, do the following:
   
 {% highlight bash %}  
 $ mkvirtualenv test
 {% endhighlight %}
             
-            You'll find the interpreter in the resulting environment will automatically be Python 3, as required.
-  
+You'll find the interpreter in the resulting environment will automatically be Python 3, as required.
+
 {% highlight bash %} 
 (test) $ python
 Python 3.5.2 (default, Nov 17 2016, 17:05:23)
 [GCC 5.4.0 20160609] on linux
 Type "help", "copyright", "credits" or "license" for more information.
 >>>
-{% endhighlight %}  
+{% endhighlight %}
  
-            Any packages installed while this environment is active will be encapsulated within the environment.
-            
-            ### Attaching and Detaching the Virtual Environment
-            
-            To enter that environment in the future, do
-  
-            [code language=&#8221;bash&#8221; gutter=&#8221;false&#8221;]
-  
-            $ workon test
-  
+Any packages installed while this environment is active will be encapsulated within the environment.
 
-  
-            To exit the environment, simply do
-  
-            [code language=&#8221;bash&#8221; gutter=&#8221;false&#8221;]
-  
-            (test) $ deactivate
-  
+### Attaching and Detaching the Virtual Environment
 
-            
-            If you no longer require the environment then remove it with
-  
-            [code language=&#8221;bash&#8221; gutter=&#8221;false&#8221;]
-  
-            $ rmvirtualenv test
-  
+To enter that environment in the future, do
 
-            
-            ## Conclusion
-            
-            I'd been working away fine without running into any package conflicts. Fine until&#8230; wham! Everything broke. Now I'm a believer: virtual environments are the future.
-            
-            A full reference to `virtualenvwrapper` functionality can be found [here][1]. Well worth a read if you are interested in using all of the (many) bells and whistles.
+{% highlight bash %} 
+$ workon test
+{% endhighlight %}
+
+To exit the environment, simply do
+
+{% highlight bash %} 
+(test) $ deactivate
+{% endhighlight %}
+
+If you no longer require the environment then remove it with
+
+{% highlight bash %} 
+$ rmvirtualenv test
+{% endhighlight %}
+
+## Conclusion
+
+I'd been working away fine without running into any package conflicts. Fine until... wham! Everything broke. Now I'm a believer: virtual environments are the future.
+
+A full reference to `virtualenvwrapper` functionality can be found [here][1]. Well worth a read if you are interested in using all of the (many) bells and whistles.
 
  [1]: https://virtualenvwrapper.readthedocs.io/en/latest/

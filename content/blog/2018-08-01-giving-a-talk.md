@@ -10,6 +10,8 @@ http://teachlikeachampion.com/blog/what-is-breaking-the-plane
 https://www.youtube.com/watch?v=4UxTgWkFJME
 https://www.tidyverse.org/articles/2018/07/carpe-talk/
 
+Say "my friends...". It immediately establishes a relationship between you and the audience.
+
 In the post on Building a Talk [REF HERE] looked at good ways to kick off a talk. Here's something that works well: don't start by introducing yourself or your topic. Literally start with the kick off. Then when it's over, introduce yourself and the proceed with the rest of the talk. This works really well and will definitely help to differentiate you from many of the other speakers.
 
 1. Pause for effect.
