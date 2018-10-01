@@ -3,7 +3,7 @@ author: Andrew B. Collier
 draft: true
 title: 'VirtualBox: Configuring an Ubuntu Guest'
 tags: ["Ubuntu", "VirtualBox"]
-date: 2018-09-17T02:00+00:00
+date: 2018-09-17T02:00:00Z
 ---
 
 1. Install a recent version of VirtualBox. This will be based on the version 5.2.18. Accept all of the default options during the installation process.

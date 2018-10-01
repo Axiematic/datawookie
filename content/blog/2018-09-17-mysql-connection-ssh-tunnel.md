@@ -3,7 +3,7 @@ author: Andrew B. Collier
 draft: true
 title: 'Connecting to MySQL via a SSH Tunnel'
 tags: ["MySQL", "SSH"]
-date: 2018-09-17T02:00+00:00
+date: 2018-09-17T02:00:00Z
 ---
 
 Create the tunnel.

@@ -3,7 +3,7 @@ author: Andrew B. Collier
 draft: true
 title: '#MonthOfDjango Day 2: Kicking off a New Project'
 tags: ["Django"]
-date: 2018-09-17T02:00+00:00
+date: 2018-09-17T02:00:00Z
 ---
 
 <!-- https://docs.djangoproject.com/en/2.1/intro/tutorial01/ -->

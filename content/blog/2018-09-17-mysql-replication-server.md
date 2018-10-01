@@ -3,7 +3,7 @@ author: Andrew B. Collier
 draft: true
 title: 'MySQL Replication Server'
 tags: ["MySQL"]
-date: 2018-09-17T02:00+00:00
+date: 2018-09-17T02:00:00Z
 ---
 
 <!-- https://www.digitalocean.com/community/tutorials/how-to-set-up-master-slave-replication-in-mysql -->
