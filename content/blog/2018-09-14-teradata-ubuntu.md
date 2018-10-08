@@ -3,6 +3,7 @@ author: Andrew B. Collier
 date: 2018-09-14T02:00:00Z
 tags: ["Ubuntu"]
 title: "Setting up Teradata on Ubuntu"
+draft: true
 ---
 
 These are instructions for getting Teradata up and running on an Ubuntu 18.04 system (although they might apply to other versions of Ubuntu too!).
@@ -50,8 +51,10 @@ There's a command line client, `tdxodbc64`, installed in `/opt/teradata/client/1
 
 ## Teradata from R
 
+{{< comment >}}
 https://vimeo.com/240227259
 https://db.rstudio.com/databases/teradata/
+{{< /comment >}}
 
 ### ODBC
 
@@ -63,6 +66,7 @@ Install the RODBC package.
 install.packages("RODBC")
 {{< /highlight >}}
 
+{{< comment >}}
 Data Source Name (DSN)
 
 FIND OUT HOW TO SET UP DSN.
@@ -73,31 +77,39 @@ https://wiki.scn.sap.com/wiki/display/EIM/To+configure+Teradata+ODBC+on+Linux+an
 
 http://community.teradata.com/t5/Analytics/Connecting-to-Teradata-in-R-via-the-teradataR-package-Teradata/m-p/28012
 
+https://db.rstudio.com/best-practices/drivers/
+https://db.rstudio.com/databases/teradata/
+{{< /comment >}}
+
+If you don't have a `.odbc.ini` file in your home folder then copy the ODBC configuration file template.
+
 {{< highlight bash >}}
-# Make sure that this does not clobber existing file!
+# Make sure that this does not clobber an existing file!
 cp /opt/teradata/client/16.20/odbc_64/odbc.ini ~/.odbc.ini
 {{< /highlight >}}
 
-{{< highlight r >}}
-# Connect using DSN.
-ch <- odbcConnect(dsn="testDSN",uid="testUser",pwd="ter@d@t@")
-# Connect without DSN.
-ch <- odbcDriverConnect("Driver=Teradata;DBCName=192.0.0.1;UID=testUser;PWD=ter@d@t@")
+Create an entry with the Data Source Name (DSN) for the connection. You need to at least specify the IP address or DNS entry for the server here.
+
+{{< highlight text >}}
+[teradb]
+Description=Teradata Database
+Driver=/opt/teradata/client/16.20/odbc_64/lib/tdataodbc_sb64.so
+DBCName=172.92.253.25
+# UID=
+# PWD=
 {{< /highlight >}}
 
-{{< highlight r >}}
-sqlTables(ch,tableType="TABLE")
-{{< /highlight >}}
+Now connect using the freshly created DSN.
 
 {{< highlight r >}}
-sqlQuery(cn, 'SELECT * FROM "employee"')
+db <- odbcConnect(dsn = "teradb", uid = "andrew", pwd = "ter@d@t@")
 {{< /highlight >}}
 
-Finally, terminate the connection.
+When you're done, terminate the connection.
 
 {{< highlight r >}}
 # Close specific connection.
-odbcClose(ch)
+odbcClose(db)
 # Close all connections.
 odbcCloseAll()
 {{< /highlight >}}
@@ -117,6 +129,8 @@ library(dplyr.teradata)
 
 {{< highlight r >}}
 con <- dbConnect(todbc(), 
-                 driver = "{Teradata Driver}", DBCName = "host_name_or_IP_address",
-                 uid = "user_name", pwd = "*****")
+                 driver = "tdataodbc_sb64.so",
+                 DBCName = "host_name_or_IP_address",
+                 uid = "user_name",
+                 pwd = "*****")
 {{< /highlight >}}
