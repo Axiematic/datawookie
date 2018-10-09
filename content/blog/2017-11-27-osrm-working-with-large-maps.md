@@ -34,7 +34,7 @@ osrm-extract north-america-latest.osm.pbf
 
 And, yes, it's also going to take some time (especially if the job is too big to fit into RAM and it starts swapping). So get busy doing something else. Waiting will be frustrating.
 
-This operation is going to consume memory like a beast! So unless you're running on a machine with a hefty chunk of RAM you'll need to ensure that you have plenty of [swap space]({{< relref "2015-06-19-amazon-ec2-adding-swap.md" >}}) available. If you can, spin up a big machine. It'll save you a lot of time (and probably work out more economical too).
+This operation is going to consume memory like a beast! So unless you're running on a machine with a hefty chunk of RAM you'll need to ensure that you have plenty of [swap space]({{< relref "2015-06-19-amazon-ec2-adding-swap.md" >}}) available. If you can, spin up a big machine. It'll save you a lot of time (and probably work out more economical too). I found that a r3.2xlarge EC2 instance was quite adequate.
 
 <figure>
   <img src="/img/2018/04/osrm-r4.8xlarge.png">
@@ -60,6 +60,15 @@ At this stage you're ready to fire up the routing server.
 {{< highlight bash >}}
 osrm-routed north-america-latest.osrm
 {{< /highlight >}}
+
+Due to the size of the data it will take a short while for the server to be ready. When you see the following log message it's ready to accept requests.
+
+{{< highlight text >}}
+[info] Listening on: 0.0.0.0:5000                                                                                   │    }
+[info] running and waiting for requests
+{{< /highlight >}}
+
+Check that it's running on the default port.
 
 {{< highlight text >}}
 $ lsof -i :5000
