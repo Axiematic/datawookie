@@ -1,8 +1,9 @@
 ---
 author: Andrew B. Collier
-date: 2018-08-09T02:00:00Z
+date: 2018-09-02T02:00:00Z
 tags: ["spark", "python", "jupyter"]
 title: "Fostering Cooperation between Jupyter and Git"
+draft: true
 ---
 
 ## Install 
