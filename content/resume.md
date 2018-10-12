@@ -27,13 +27,13 @@ Could add: * List of students supervised.
 
 A selection of training courses I have given:
 <ul>
-  <li> Machine Learning with Python, <a href="https://za.pycon.org/">PyCon</a> (Johannesburg), October 2018.</li>
+  <li> Machine Learning with Python, [PyCon](https://za.pycon.org/) (Johannesburg), October 2018.</li>
   <li> Introduction to Spark, [Vantage Data](https://www.vantagedata.co.za/), September 2018.
   <li> Automated Reporting with R: Essentials, [Thermo Fisher](https://www.brahms.de/) (Hennigsdorf, Germany), July 2018.
   <li> Building Packages with R: Essentials, [Thermo Fisher](https://www.brahms.de/) (Hennigsdorf, Germany), July 2018.
   <li> Data Science with R: Beginners' Course, Investec (Johannesburg), June 2018.
   <li> Web Scraping with R, Rise (Cape Town), June 2018.
-  <li> Web Scraping with Python, <a href="https://za.pycon.org/">PyCon</a> (Cape Town), October 2017.</li>
+  <li> Web Scraping with Python, [PyCon](https://za.pycon.org/) (Cape Town), October 2017.</li>
   <li> Data Science (Head Teacher) , <a href="http://www.ixperience.co.za">iXperience</a>, 2016, 2017 and 2018.
 </ul>
 
@@ -161,7 +161,7 @@ Session chairs:
 
 <ul>
   <li>A. B. Collier, "A Gentle Introduction to Bayesian Methods with Python", Breizh Data Day, Rennes, France, 19 October 2018.</li>
-  <li>A. B. Collier, "Bayesian Analysis in Python: A Starter Kit", PyCon, Johannesburg, 12 October 2018.</li>
+  <li>A. B. Collier, "Bayesian Analysis in Python: A Starter Kit", [PyCon](https://za.pycon.org/), Johannesburg, 12 October 2018.</li>
   <li>A. B. Collier, "Wading into Stream Analytics", <a href="http://www.sqlsaturday.com/803/EventHome.aspx">SQL Saturday (Durban)</a>, 15 September 2018.</li>
   <li>A. B. Collier, "Wading into Stream Analytics", <a href="http://www.sqlsaturday.com/793/eventhome.aspx">SQL Saturday (Cape Town)</a>, 8 September 2018.</li>
   <li>A. B. Collier, "Wading into Stream Analytics", <a href="http://www.sqlsaturday.com/785/eventhome.aspx">SQL Saturday (Johannesburg)</a>, 1 September 2018.</li>
