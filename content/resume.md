@@ -23,23 +23,25 @@ Could add: * List of students supervised.
 <tr><td><a href="https://www.environment.gov.za/">Department of Environmental Affairs</a></td><td class="position">Antarctic Expedition Member</td><td class="duration">1994 - 1995</td></tr>
 </table>
 
-A selection of training courses that I have given:
+<p>More details of these positions can be found on my <a target="_blank" href="http://www.linkedin.com/in/datawookie">LinkedIn profile</a>.</p>
+
+A selection of training courses I have given:
 <ul>
+  <li> Machine Learning with Python, <a href="https://za.pycon.org/">PyCon</a> (Johannesburg), October 2018.</li>
   <li> Introduction to Spark, [Vantage Data](https://www.vantagedata.co.za/), September 2018.
   <li> Automated Reporting with R: Essentials, [Thermo Fisher](https://www.brahms.de/) (Hennigsdorf, Germany), July 2018.
   <li> Building Packages with R: Essentials, [Thermo Fisher](https://www.brahms.de/) (Hennigsdorf, Germany), July 2018.
   <li> Data Science with R: Beginners' Course, Investec (Johannesburg), June 2018.
   <li> Web Scraping with R, Rise (Cape Town), June 2018.
+  <li> Web Scraping with Python, <a href="https://za.pycon.org/">PyCon</a> (Cape Town), October 2017.</li>
   <li> Data Science (Head Teacher) , <a href="http://www.ixperience.co.za">iXperience</a>, 2016, 2017 and 2018.
 </ul>
 
-Conferences that I have organised:
+Conferences I have organised:
 <ul>
   <li> <a href="http://capetown2018.satrdays.org/">#satRday (CapeTown)</a> (2018).
   <li> <a href="http://capetown2017.satrdays.org/">#satRday (CapeTown)</a> (2017).
 </ul>
-
-<p>More details of these positions can be found on my <a target="_blank" href="http://www.linkedin.com/in/datawookie">LinkedIn profile</a>.</p>
 
 <h2 class="resume">Education</h2>
 
@@ -78,12 +80,12 @@ Conferences that I have organised:
 <ul>
   <li> Python.
   <li> Spark.
+  <li> Stan (with PyStan and RStan).
   <li> Django, Jekyll, Bootstrap, HTML, CSS and SASS.
-  <li> JavaScript and D3.
-  <li> JSON and XML.
+  <!-- <li> JavaScript and D3. -->
+  <!-- <li> JSON and XML. -->
   <li> Docker.
   <li> Continuous Integration.
-  <li> QGIS.
 </ul>
 
 ### Conversant
@@ -91,6 +93,7 @@ Conferences that I have organised:
 <ul>
   <li> Julia, C, C++ and FORTRAN.
   <li> Tableau.
+  <li> GIS.
 </ul>
 
 <div class="notprint">
@@ -157,6 +160,11 @@ Session chairs:
 -->
 
 <ul>
+  <li>A. B. Collier, "A Gentle Introduction to Bayesian Methods with Python", Breizh Data Day, Rennes, France, 19 October 2018.</li>
+  <li>A. B. Collier, "Bayesian Analysis in Python: A Starter Kit", PyCon, Johannesburg, 12 October 2018.</li>
+  <li>A. B. Collier, "Wading into Stream Analytics", <a href="http://www.sqlsaturday.com/803/EventHome.aspx">SQL Saturday (Durban)</a>, 15 September 2018.</li>
+  <li>A. B. Collier, "Wading into Stream Analytics", <a href="http://www.sqlsaturday.com/793/eventhome.aspx">SQL Saturday (Cape Town)</a>, 8 September 2018.</li>
+  <li>A. B. Collier, "Wading into Stream Analytics", <a href="http://www.sqlsaturday.com/785/eventhome.aspx">SQL Saturday (Johannesburg)</a>, 1 September 2018.</li>
   <li>A. B. Collier, "First Steps with Stan", Derivco Brown Bag, 24 August 2018.</li>
   <li>A. B. Collier, "Getting Started with Bayesian Techniques in Julia" (poster), <a href="http://juliacon.org/2018/">JuliaCon</a>, 9 August 2018.</li>
   <li>A. B. Collier, Moderator for <a href="https://www.crowdcast.io/e/storytelling-with-data-science/">Storytelling With Data Science</a> panel discussion hosted by Toptal, 26 July 2018.
@@ -173,7 +181,6 @@ Session chairs:
   <li>A. B. Collier, "Running an Ethereum Node." <a href="https://www.meetup.com/Durban-Ethereum-Meetup/events/246648015/">Durban Ethereum Meetup</a>, Derivco, Durban, South Africa, 31 January 2018.</li>
   <li>A. B. Collier, "Hello Durban, tell me how you're doing!" <a href="http://digifest.dut.ac.za/">Digifest</a>, Durban University of Technology, Durban, South Africa, 2017.</li>
   <li>A. B. Collier, and K. Tirok, "Introduction to R." (1 day workshop) Department of Public Health, University of KwaZulu-Natal, Durban, South Africa, 2017.</li>
-  <li>A. B. Collier, "Web Scraping: Unleash your Internet Viking." (4 hour workshop) <a href="https://za.pycon.org/">PyConZA</a>, Cape Town, South Africa, 2017.</li>
   <li>A. B. Collier, "Diagnosing the Long Distance Runner with Django, D3 and R." <a href="https://bulgariawebsummit.com/">Bulgaria Web Summit</a>, Sofia, Bulgaria, 2017. <a href="https://youtu.be/oSTkrXn2S_c" target="_blank"><i class="fab fa-youtube"></i></a></li>
   <li>A. B. Collier, and P. Oxborrow, "Wordpress by Dummies," Derivco Brown Bag, 26 October 2016.</li>
   <li>A. B. Collier, "#PredictiveAnalytics," Derivco Brown Bag, 25 May 2016.</li>
