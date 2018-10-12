@@ -46,6 +46,10 @@
     {{ if hasPrefix .URL "/abstracts/" }}
     <meta name="robots" content="noindex">
     {{ end }}
+    {{ if hasPrefix .URL "/resume/" }}
+    <!-- Open all links in new tab. This is an HTML5 extension! -->
+    <base target="_blank">
+    {{ end }}
 
     {{ template "_internal/google_analytics_async.html" . }}
   </head>
