@@ -23,7 +23,7 @@ Could add: * List of students supervised.
 <tr><td><a href="https://www.environment.gov.za/">Department of Environmental Affairs</a></td><td class="position">Antarctic Expedition Member</td><td class="duration">1994 - 1995</td></tr>
 </table>
 
-<p>More details of these positions can be found on my <a target="_blank" href="http://www.linkedin.com/in/datawookie">LinkedIn profile</a>.</p>
+<p>More details of these positions can be found on my <a href="http://www.linkedin.com/in/datawookie">LinkedIn profile</a>.</p>
 
 A selection of training courses I have given:
 <ul>
@@ -103,7 +103,6 @@ Conferences I have organised:
 
 <p><a href="https://software-carpentry.org/">Software Carpentry</a> Instructor.</p>
 
-
 Introduction to Apache Spark and AWS;
 Data Science Specialisation <!-- Johns Hopkins University  --> (The Data Scientist’s Toolbox; R Programming; Getting and Cleaning Data; Exploratory Data Analysis; Reproducible Research; Statistical Inference; Regression Models; Developing Data Products; Practical Machine Learning);
 Data Analysis; <!-- Johns Hopkins University  -->
@@ -161,7 +160,7 @@ Session chairs:
 
 <ul>
   <li>A. B. Collier, "A Gentle Introduction to Bayesian Methods with Python", Breizh Data Day, Rennes, France, 19 October 2018.</li>
-  <li>A. B. Collier, "Bayesian Analysis in Python: A Starter Kit", [PyCon](https://za.pycon.org/), Johannesburg, 12 October 2018.</li>
+  <li>A. B. Collier, "Bayesian Analysis in Python: A Starter Kit", <a href="https://za.pycon.org/">PyCon</a>, Johannesburg, 12 October 2018. <a href="https://github.com/DataWookie/talk-pycon-2018-johannesburg-gentle-bayesian"><i class="fab fa-github"></i></a></li>
   <li>A. B. Collier, "Wading into Stream Analytics", <a href="http://www.sqlsaturday.com/803/EventHome.aspx">SQL Saturday (Durban)</a>, 15 September 2018.</li>
   <li>A. B. Collier, "Wading into Stream Analytics", <a href="http://www.sqlsaturday.com/793/eventhome.aspx">SQL Saturday (Cape Town)</a>, 8 September 2018.</li>
   <li>A. B. Collier, "Wading into Stream Analytics", <a href="http://www.sqlsaturday.com/785/eventhome.aspx">SQL Saturday (Johannesburg)</a>, 1 September 2018.</li>
@@ -170,18 +169,18 @@ Session chairs:
   <li>A. B. Collier, Moderator for <a href="https://www.crowdcast.io/e/storytelling-with-data-science/">Storytelling With Data Science</a> panel discussion hosted by Toptal, 26 July 2018.
   <li>A. B. Collier, and E. F. Collier, "Setting up WordPress with AWS", <a href="https://www.meetup.com/WordPress-Joburg/events/fmbwmpyxkbwb/">WordPress Jo'burg</a>, 17 July 2018.</li>
   <li>A. B. Collier, "Data Science in the Cloud: Getting Started", <a href="https://www.meetup.com/Berlin-R-Users-Group/events/251963888/">Berlin R Users Group</a>, 10 July 2018.</li>
-  <li>A. B. Collier, "Interfacing R and Python", <a href="https://pydata.org/berlin2018/">PyData (Berlin)</a>, 8 July 2018. [<a href="https://datawookie.github.io/talk-mixed-python-r/">slides</a>] <a href="https://www.youtube.com/watch?v=pjDGB9i7kyI" target="_blank"><i class="fab fa-youtube"></i></a></li>
+  <li>A. B. Collier, "Interfacing R and Python", <a href="https://pydata.org/berlin2018/">PyData (Berlin)</a>, 8 July 2018. [<a href="https://datawookie.github.io/talk-mixed-python-r/">slides</a>] <a href="https://www.youtube.com/watch?v=pjDGB9i7kyI"><i class="fab fa-youtube"></i></a></li>
   <li>A. B. Collier, "Data Science in the Cloud: Getting Started", <a href="https://www.meetup.com/en-AU/rladies-cape-town/">R-Ladies Cape Town</a>, 19 June 2018.</li>
-  <li>A. B. Collier, "Taking the Bayesian Leap", <a href="https://2018.erum.io/">eRum</a>, Budapest, Hungary, 15 May 2018. [<a href="https://datawookie.github.io/talk-first-steps-with-stan/">slides</a>] <a href="https://youtu.be/kr_pAPS_oyM" target="_blank"><i class="fab fa-youtube"></i></a></li>
+  <li>A. B. Collier, "Taking the Bayesian Leap", <a href="https://2018.erum.io/">eRum</a>, Budapest, Hungary, 15 May 2018. [<a href="https://datawookie.github.io/talk-first-steps-with-stan/">slides</a>] <a href="https://youtu.be/kr_pAPS_oyM"><i class="fab fa-youtube"></i></a></li>
   <li>A. B. Collier, "Getting Involved with the R Community", RCCP eConversations, 20 April 2018.
   <!-- RCCP = Rural Campus Connectivity Project -->
   <!-- https://twitter.com/aneldavdw/status/987267618531893248 -->
   <li>A. B. Collier, Moderator for <a href="https://www.crowdcast.io/e/future-of-icos">The Future of ICOs</a> panel discussion hosted by Toptal, 11 April 2018.
-  <li>A. B. Collier, "Data Science Productivity Hacks." <a href="http://capetown2018.satrdays.org/">satRday</a>, Cape Town, South Africa, 17 March 2018. [<a href="https://datawookie-talks.github.io/productivity-hacks-r/">slides</a>] <a href="https://youtu.be/Q7FEbgPljEs" target="_blank"><i class="fab fa-youtube"></i></a></li>
+  <li>A. B. Collier, "Data Science Productivity Hacks." <a href="http://capetown2018.satrdays.org/">satRday</a>, Cape Town, South Africa, 17 March 2018. [<a href="https://datawookie-talks.github.io/productivity-hacks-r/">slides</a>] <a href="https://youtu.be/Q7FEbgPljEs"><i class="fab fa-youtube"></i></a></li>
   <li>A. B. Collier, "Running an Ethereum Node." <a href="https://www.meetup.com/Durban-Ethereum-Meetup/events/246648015/">Durban Ethereum Meetup</a>, Derivco, Durban, South Africa, 31 January 2018.</li>
   <li>A. B. Collier, "Hello Durban, tell me how you're doing!" <a href="http://digifest.dut.ac.za/">Digifest</a>, Durban University of Technology, Durban, South Africa, 2017.</li>
   <li>A. B. Collier, and K. Tirok, "Introduction to R." (1 day workshop) Department of Public Health, University of KwaZulu-Natal, Durban, South Africa, 2017.</li>
-  <li>A. B. Collier, "Diagnosing the Long Distance Runner with Django, D3 and R." <a href="https://bulgariawebsummit.com/">Bulgaria Web Summit</a>, Sofia, Bulgaria, 2017. <a href="https://youtu.be/oSTkrXn2S_c" target="_blank"><i class="fab fa-youtube"></i></a></li>
+  <li>A. B. Collier, "Diagnosing the Long Distance Runner with Django, D3 and R." <a href="https://bulgariawebsummit.com/">Bulgaria Web Summit</a>, Sofia, Bulgaria, 2017. <a href="https://youtu.be/oSTkrXn2S_c"><i class="fab fa-youtube"></i></a></li>
   <li>A. B. Collier, and P. Oxborrow, "Wordpress by Dummies," Derivco Brown Bag, 26 October 2016.</li>
   <li>A. B. Collier, "#PredictiveAnalytics," Derivco Brown Bag, 25 May 2016.</li>
   <li>A. B. Collier, and W. van Deventer, "Jungle Jim and the Hypergeometric Animations," Derivco Brown Bag, 10 April 2015.</li>
