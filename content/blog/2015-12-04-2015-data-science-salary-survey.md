@@ -33,8 +33,6 @@ The most commonly used tools, in order of decreasing importance, are SQL, Excel,
 
 With respect to age, those in the 46-50 years group are getting paid the most, although they represent only 6% of the respondents. These guys are obviously at the peak of their profession. The most populous age group is 31-35 years. They're earning significantly less than their more senior colleagues, but the escalation in salaries with age should give them hope for a prosperous future.
 
-[<img src="http://162.243.184.248/wp-content/uploads/2015/12/age-bubble.png" alt="age-bubble" width="100%" class="aligncenter size-large wp-image-2940" srcset="http://162.243.184.248/wp-content/uploads/2015/12/age-bubble.png 800w, http://162.243.184.248/wp-content/uploads/2015/12/age-bubble-300x243.png 300w, http://162.243.184.248/wp-content/uploads/2015/12/age-bubble-768x621.png 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" />](http://162.243.184.248/wp-content/uploads/2015/12/age-bubble.png)
-
 <img src="/img/2015/12/age-bubble.png">
 
 Finally, in terms of gender, roughly 80% of the respondents were male and are being paid significantly more than their female counterparts (when all other variables are accounted for). Not cool, especially given that some of the most talented Data Scientists I know are female!

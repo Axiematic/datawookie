@@ -65,7 +65,7 @@ julia> 5200Angstrom # Green light
 
 Read on below to find out about the `Physical` package.
 
-[![](http://imgs.xkcd.com/comics/converting_to_metric.png)](http://www.explainxkcd.com/wiki/index.php/526:_Converting_to_Metric)
+[![](https://imgs.xkcd.com/comics/converting_to_metric.png)](https://www.explainxkcd.com/wiki/index.php/526:_Converting_to_Metric)
 
 ## Physical
 

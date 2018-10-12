@@ -161,4 +161,4 @@ Other related projects you should peruse:
 
 This series is drawing to a close. Still a few more things I want to write about (although I have already violated the "Month" constraint). I'll be back later in the week.
 
-<a href="http://www.explainxkcd.com/wiki/index.php/399:_Travelling_Salesman_Problem"><img src="http://imgs.xkcd.com/comics/travelling_salesman_problem.png" /></img></a>
+<a href="https://www.explainxkcd.com/wiki/index.php/399:_Travelling_Salesman_Problem"><img src="https://imgs.xkcd.com/comics/travelling_salesman_problem.png" /></img></a>

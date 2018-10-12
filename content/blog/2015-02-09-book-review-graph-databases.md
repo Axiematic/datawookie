@@ -5,7 +5,7 @@ tags: ["Neo4j", "Book Review"]
 title: 'Book Review: Graph Databases'
 ---
 
-The book [Graph Databases](http://www.amazon.com/gp/product/1449356265/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449356265&linkCode=as2&tag=exegetanalyt-20&linkId=WNKLQVLL5LJOJF3K) <img src="http://ir-na.amazon-adsystem.com/e/ir?t=exegetanalyt-20&#038;l=as2&#038;o=1&#038;a=1449356265" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />by Ian Robinson, Jim Webber and Emil Eifrem gives an engaging overview of Graph Databases, describing typical use cases and illustrating the syntax used to construct and query them.
+The book [Graph Databases](http://www.amazon.com/gp/product/1449356265/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449356265&linkCode=as2&tag=exegetanalyt-20&linkId=WNKLQVLL5LJOJF3K) by Ian Robinson, Jim Webber and Emil Eifrem gives an engaging overview of Graph Databases, describing typical use cases and illustrating the syntax used to construct and query them.
 
 <img src="/img/2015/02/graph-databases-cover.jpg" >
 

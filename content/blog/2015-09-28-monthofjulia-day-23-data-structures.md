@@ -104,5 +104,5 @@ I've just finished reading through the second early access version of [Julia in 
 Tomorrow we'll take a look at an extremely useful data structure: a graph. Until then, feel free to check out the full code for today on [github](https://github.com/DataWookie/MonthOfJulia).
 
 <center>
-  <a href="http://www.explainxkcd.com/wiki/index.php/835:_Tree"><img src="http://imgs.xkcd.com/comics/tree.png" /></img></a>
+  <a href="https://www.explainxkcd.com/wiki/index.php/835:_Tree"><img src="https://imgs.xkcd.com/comics/tree.png" /></img></a>
 </center>
