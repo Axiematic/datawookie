@@ -160,7 +160,7 @@ Session chairs:
 
 <ul>
   <li>A. B. Collier, "A Gentle Introduction to Bayesian Methods with Python", Breizh Data Day, Rennes, France, 19 October 2018.</li>
-  <li>A. B. Collier, "Bayesian Analysis in Python: A Starter Kit", <a href="https://za.pycon.org/">PyCon</a>, Johannesburg, 12 October 2018. <a href="https://github.com/DataWookie/talk-pycon-2018-johannesburg-gentle-bayesian"><i class="fab fa-github"></i></a></li>
+  <li>A. B. Collier, "Bayesian Analysis in Python: A Starter Kit", <a href="https://za.pycon.org/">PyCon</a>, Johannesburg, 12 October 2018. <a href="https://github.com/DataWookie/talk-pycon-2018-johannesburg-gentle-bayesian"><i class="fab fa-github"></i></a> <a href="https://www.youtube.com/watch?v=-8VTcuCJF1s"><i class="fab fa-youtube"></i></a></li>
   <li>A. B. Collier, "Wading into Stream Analytics", <a href="http://www.sqlsaturday.com/803/EventHome.aspx">SQL Saturday (Durban)</a>, 15 September 2018.</li>
   <li>A. B. Collier, "Wading into Stream Analytics", <a href="http://www.sqlsaturday.com/793/eventhome.aspx">SQL Saturday (Cape Town)</a>, 8 September 2018.</li>
   <li>A. B. Collier, "Wading into Stream Analytics", <a href="http://www.sqlsaturday.com/785/eventhome.aspx">SQL Saturday (Johannesburg)</a>, 1 September 2018.</li>
