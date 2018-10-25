@@ -16,3 +16,13 @@ It took me a little while to figure out the correct sequence for restoring a Dja
 4. `python manage.py dbrestore`. Retrieve the data and insert it into appropriate tables. This will restore the most recent backup.
 
 And you're back! It seems pretty trivial, but I hit my head against this a number of times and got very frustrated when things just wouldn't work. Follow this recipes and you're good.
+
+As a side note, if it's taking a long, long, long time to restore your backup then you can add the following SQL code to the backup file:
+
+{{< highlight sql >}}
+-- Near the top of the file.
+SET @OLD_AUTOCOMMIT=@@AUTOCOMMIT, AUTOCOMMIT = 0;
+-- Near the bottom of the file.
+SET AUTOCOMMIT = @OLD_AUTOCOMMIT;
+COMMIT;
+{{< /highlight >}}
