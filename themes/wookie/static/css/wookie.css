@@ -283,8 +283,8 @@ a.btn {
 
 /* LISTS ------------------------------------------------------------------- */
 
-ol {
-  // padding-left: 0px;
+ol, ul {
+  padding-left: 0px;
   // list-style-position: inside;
 }
 
