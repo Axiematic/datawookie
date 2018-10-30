@@ -169,49 +169,140 @@ My interests include (but are not limited to): R, data, web development, running
 <h2 class="resume">Publications</h2>
 
 <ul>
-  <li>T. Gjesteland, N. Østgaard, S. Laviola, M. M. Miglietta, E. Arnone, M. Marisaldi, F. Fuschino, A. B. Collier, F. Fabro, and J. Montanya, "Observation of intrinsically bright Terrestrial Gamma ray Flashes from the Mediterranean basin," <em>Journal of Geophysical Research: Atmospheres</em>, vol. 120, no. 23, 2015. [<a href="http://dx.doi.org/10.1002/2015JD023704">DOI</a>]</li>
-  <li>N. Østgaard, K. H. Albrecthsen, T. Gjesteland, and A. B. Collier, "A new population of Terrestrial Gamma-ray Flashes in the RHESSI data," <em> Geophysical Research Letters</em>, 2015. [<a href="http://dx.doi.org/10.1002/2015GL067064">DOI</a>]</li>
-  <li>C. Antel, A. B. Collier, J. Lichtenberger, and C. J. Rodger, "Investigating Dunedin whistlers using volcanic lightning," <em>Geophysical Research Letters</em>, vol. 41, 2014. [<a href="http://dx.doi.org/10.1002/2014GL060332">DOI</a>]</li>
-  <li>E. J. Koen, A. B. Collier, and S. K. Maharaj, "A particle-in-cell approach to obliquely propagating electrostatic waves," <em>Physics of Plasmas</em>, vol. 21, 2014. [<a href="http://dx.doi.org/10.1063/1.4894529">DOI</a>]</li>
-  <li>E. J. Koen, A. B. Collier, S. K. Maharaj, and M. A. Hellberg, "Particle-In-Cell simulations of ion-acoustic waves with application to Saturn's magnetosphere," <em>Physics of Plasmas</em>, vol. 21, 2014. [<a href="http://dx.doi.org/10.1063/1.4891320">DOI</a>]</li>
-  <li>R. S. Nisi, N. Østgaard, T. Gjesteland, and A. B. Collier, "An altitude and distance correction to the source fluence distribution of TGFs," <em>Journal of Geophysical Research</em>, vol. 119, no. 10, pp. 8698–8704, 2014. [<a href="http://dx.doi.org/10.1002/2014JA019817">DOI</a>]</li>
-  <li>A. B. Collier, R. Bürgesser, and E. Ávila, "Suitable regions for assessing long term trends in lightning activity," <em>Journal of Atmospheric and Solar-Terrestrial Physics</em>, vol. 92, pp. 100–104, 2013. [<a href="http://dx.doi.org/10.1016/j.jastp.2012.10.012">DOI</a>]</li>
-  <li>K. Cresswell-Moorcock, C. J. Rodger, A. Kero, A. B. Collier, M. A. Clilverd, I. Häggström, and T. Pitkänen, "A Reexamination of Latitudinal Limits of Substorm-Produced Energetic Electron Precipitation," <em>Journal of Geophysical Research</em>, vol. 118, no. 10, pp. 694–6705, 2013. [<a href="http://dx.doi.org/DOI:10.1002/jgra.50598">DOI</a>]</li>
-  <li>A. M. de Boer, A. B. Collier, and R. Caballero, "Processes driving thunderstorms over the Agulhas Current," <em>Journal of Geophysical Research</em>, vol. 118, pp. 2220–2228, 2013. [<a href="http://dx.doi.org/10.1002/jgrd.50238">DOI</a>]</li>
-  <li>B. Heilig, P. R. Sutcliffe, D. C. Ndiitwani, and A. B. Collier, "Statistical study of geomagnetic field line resonances observed by CHAMP and on the ground," <em>Journal of Geophysical Research</em>, vol. 118, pp. 1934–1947, 2013. [<a href="http://dx.doi.org/10.1002/jgra.50215">DOI</a>]</li>
-  <li>E. J. Koen and A. B. Collier, "Mid-latitude Ionospheric Signature of a weak Solar Flare in Winter," <em>South African Journal of Science</em>, vol. 109, no. 1/2, 2013. [<a href="http://dx.doi.org/10.1590/ sajs.2013/802">DOI</a>]</li>
-  <li>J. Lichtenberger, M. Clilverd, B. Heilig, M. Vellanate, J. Manninen, C. J. Rodger, A. B. Collier, A. M. Jorgensen, J. Reda, R. H. Holzworth, and R. Friedel, "The plasmasphere during a space weather event: First results from the PLASMON," <em>Journal of Space Weather and Space Climate</em>, vol. 3, 2013. [<a href="http://dx.doi.org/10.1051/swsc/2013045">DOI</a>]</li>
-  <li>R. M. Millan, M. P. McCarthy, J. G. Sample, D. M. Smith, L. D. Thompson, D. G. McGaw, L. A. Woodger, J. G. Hewitt, M. D. Comess, K. B. Yando, A. X. Liang, B. A. Anderson, N. R. Knezek, W. Z. Rexroad, J. M. Scheiman, G. S. Bowers, A. J. Halford, A. B. Collier, M. A. Clilverd, R. P. Lin, and M. K. Hudson, "The Balloon Array for RBSP Relativistic Electron Losses (BARREL)," <em>Space Science Reviews</em>, vol. 179, pp. 503–530, 2013. [<a href="http://dx.doi.org/10.1007/s11214-013-9971-z">DOI</a>]</li>
-  <li>N. Østgaard, T. Gjesteland, B. E. Carlsson, A. B. Collier, S. A. Cummer, G. Lu, and H. J. Christian, "Simultaneous observations of optical lightning and terrestrial gamma ray flash from space," <em>Geophysical Research Letters</em>, vol. 40, 2013. [<a href="http://dx.doi.org/10.1002/grl.50466">DOI</a>]</li>
-  <li>B. Delport, A. B. Collier, J. Lichtenberger, C. J. Rodger, M. Parrot, M. A. Clilverd, and R. H. W. Friedel, "Simultaneous observation of chorus and hiss near the plasmapause," <em>Journal of Geophysical Research</em>, vol. 117, 2012. [<a href="http://dx.doi.org/10.1029/2012JA017609">DOI</a>]</li>
-  <li>T. Gjesteland, N. Østgaard, A. B. Collier, B. E. Carlson, C. Eyles, and D. M. Smith, "A new method reveals more TGFs in the RHESSI data," <em>Geophysical Research Letters</em>, vol. 39, 2012. [<a href="http://dx.doi.org/10.1029/2012GL050899">DOI</a>]</li>
-  <li>E. J. Koen, A. B. Collier, and S. K. Maharaj, "Particle-in-cell simulations of beam-driven electrostatic waves in a plasma," <em>Physics of Plasmas</em>, vol. 19, no. 4, 2012. [<a href="http://dx.doi.org/10.1063/1.3695402">DOI</a>]</li>
-  <li>E. J. Koen, A. B. Collier, and S. K. Maharaj, "A simulation approach of high-frequency electrostatic waves found in Saturn's magnetosphere," <em>Physics of Plasmas</em>, vol. 19, no. 4, p. 042102, 2012. [<a href="http://dx.doi.org/10.1063/1.3695404">DOI</a>]</li>
-  <li>N. Østgaard, T. Gjesteland, R. S. Hansen, A. B. Collier, and B. Carlson, "The true fluence distribution of terrestrial gamma flashes at satellite altitude," <em>Journal of Geophysical Research</em>, vol. 117, 2012. [<a href="http://dx.doi.org/10.1029/2011JA017365">DOI</a>]</li>
-  <li>A. B. Collier, T. Gjesteland, and N. Østgaard, "Assessing the Power Law Distribution of TGFs," <em>Journal of Geophysical Research</em>, vol. 116, 2011. [<a href="http://dx.doi.org/10.1029/2011JA016612">DOI</a>]</li>
-  <li>A. B. Collier and A. R. W. Hughes, "Lightning and the African ITCZ," <em>Journal of Atmospheric and Solar-Terrestrial Physics</em>, vol. 73, no. 16, pp. 2392–2398, 2011. [<a href="http://dx.doi.org/10.1016/j.jastp.2011.08.010">DOI</a>]</li>
-  <li>A. B. Collier and A. R. W. Hughes, "A Harmonic Model for the Temporal Variation of Lightning Activity over Africa," <em>Journal of Geophysical Research</em>, vol. 116, 2011. [<a href="http://dx.doi.org/10.1029/2010JD014455">DOI</a>]</li>
-  <li>A. B. Collier, J. Lichtenberger, M. A. Clilverd, P. Steinbach, and C. J. Rodger, "Source Region for Whistlers Detected at Rothera, Antarctica," <em>Journal of Geophysical Research</em>, vol. 116, 2011. [<a href="http://dx.doi.org/10.1029/2010JA016197">DOI</a>]</li>
-  <li>H. Dahlgren, K. Å. T. Sundberg, A. B. Collier, E. J. Koen, and S. G. Meyer, "Solar flares detected by the new narrowband VLF receiver at SANAE IV," <em>South African Journal of Science</em>, vol. 107, no. 9/10, pp. 1–8, 2011. [<a href="http://dx.doi.org/10.4102/sajs.v107i9/10.491">DOI</a>]</li>
-  <li>T. Gjesteland, N. Østgaard, A. B. Collier, B. E. Carlson, M. B. Cohen, and N. G. Lehtinen, "Confining the Angular Distribution of Terrestrial Gamma-ray Flash Emission," <em>Journal of Geophysical Research</em>, vol. 116, 2011. [<a href="http://dx.doi.org/10.1029/2011JA016716">DOI</a>]</li>
-  <li>R. M. Millan, M. McCarthy, D. Smith, R. Lin, M. Hudson, J. Sample, L. Woodger, J. Hewitt, K. Yando, B. Anderson, N. Knezek, J. Scheiman, A. Baker, M. Comess, A. Liang, W. Rexroad, M. A. Clilverd, A. B. Collier, M. Panasyuk, D. McGaw, and L. Thompson, "Understanding relativistic electron losses with BARREL," <em>Journal of Atmospheric and Solar-Terrestrial Physics</em>, vol. 73, no. 11-12, pp. 1425–1434, 2011. [<a href="http://dx.doi.org/10.1016/j.jastp.2011.01.006">DOI</a>]</li>
-  <li>O. Okike and A. B. Collier, "A multivariate study of Forbush decrease simultaneity," <em>Journal of Atmospheric and Solar-Terrestrial Physics</em>, vol. 73, no. 7-8, pp. 796–804, 2011. [<a href="http://dx.doi.org/10.1016/j.jastp.2011.01.015">DOI</a>]</li>
-  <li>E. E. Ávila, R. E. Bürgesser, N. E. Castellano, A. B. Collier, R. H. Compagnucci, and A. R. W. Hughes, "Correlations between deep convection and lightning activity on a global scale," <em>Journal of Atmospheric and Solar-Terrestrial Physics</em>, vol. 72, no. 14-15, pp. 1114–1121, 2010. [<a href="http://dx.doi.org/10.1016/j.jastp.2010.07.019">DOI</a>]</li>
-  <li>A. B. Collier, S. Bremner, J. Lichtenberger, J. R. Downs, C. J. Rodger, P. Steinbach, and G. McDowell, "Global lightning distribution and whistlers observed at Dunedin, New Zealand," <em>Annales Geophysicae</em>, vol. 28, no. 2, pp. 499–513, 2010. [<a href="http://dx.doi.org/10.5194/angeo-28-499-2010">DOI</a>]</li>
-  <li>J. Lichtenberger, C. Ferencz, D. Hamar, P. Steinbach, C. J. Rodger, M. A. Clilverd, and A. B. Collier, "Automatic Whistler Detector and Analyzer system: Implementation of the analyzer algorithm," <em>Journal of Geophysical Research</em>, vol. 115, 2010. [<a href="http://dx.doi.org/10.1029/2010JA015931">DOI</a>]</li>
-  <li>M. A. Clilverd, C. J. Rodger, N. R. Thomson, J. B. Brundell, T. Ulich, J. Lichtenberger, N. Cobbett, A. B. Collier, F. W. Menk, A. Seppälä, P. T. Verronen, and E. Turunen, "Remote sensing space weather events: the AARDDVARK network," <em>Space Weather</em>, vol. 7, 2009. [<a href="http://dx.doi.org/10.1029/2008SW000412">DOI</a>]</li>
-  <li>A. B. Collier, B. Delport, A. R. W. Hughes, J. Lichtenberger, P. Steinbach, J. Öster, and C. J. Rodger, "Correlation between global lightning and whistlers observed at Tihany, Hungary," <em>Journal of Geophysical Research</em>, vol. 114, 2009. [<a href="http://dx.doi.org/10.1029/2008JA013863">DOI</a>]</li>
-  <li>J. Öster, A. B. Collier, A. R. W. Hughes, L. G. Blomberg, and J. Lichtenberger, "Spatial correlation between lightning strikes and whistler observations from Tihany, Hungary," <em>South African Journal of Science</em>, vol. 105, no. 5-6, pp. 234–237, 2009. [<a href="http://dx.doi.org/10.4102/sajs.v105i5/6.98">DOI</a>]</li>
-  <li>R. L. Dowden, R. H. Holzworth, C. J. Rodger, J. Lichtenberger, N. Thomson, A. R. Jacobson, E. H. Lay, J. Brundell, T. Lyons, S. O'Keefe, Z. Kawasaki, C. Price, V. Prior, P. Ortega, J. Weinman, Y. Mikhailov, O. Veliz, X. Qie, G. Burns, A. B. Collier, O. Pinto, R. Diaz, C. Adamo, E. Williams, S. Kumar, G. Raga, J. Rosado, E. E. Avila, M. Clilverd, T. Ulich, P. Gorham, T. Shanahan, T. Osipowicz, G. Cook, and Y. Zhao, "World-wide lightning location using VLF propagation in the Earth-ionosphere waveguide," <em>IEEE Antennas and Propagation Magazine</em>, vol. 50, no. 5, pp. 40–60, 2008. [<a href="http://dx.doi.org/10.1109/MAP.2008.4674710">DOI</a>]</li>
-  <li>M. Kokorowski, E. A. Bering, M. Ruohoniemi, J. Sample, R. H. Holzworth, S. Bale, J. Blake, A. B. Collier, A. R. W. Hughes, E. H. Lay, R. Lin, M. McCarthy, R. M. Millan, H. Moraal, T. O'Brien, G. K. Parks, M. Pulupa, B. Reddell, D. Smith, P. Stoker, and L. Woodger, "Magnetospheric electric field variations caused by storm-time shock fronts," <em>Advances in Space Research</em>, vol. 42, no. 1, pp. 181–191, 2008. [<a href="http://dx.doi.org/10.1016/j.asr.2008.03.006">DOI</a>]</li>
-  <li>A. B. Collier, A. R. W. Hughes, L. G. Blomberg, and P. R. Sutcliffe, "Evidence of standing waves during a Pi2 pulsation event observed on Cluster," <em>Annales Geophysicae</em>, vol. 24, no. 10, pp. 2719–2733, 2006. [<a href="http://dx.doi.org/10.5194/angeo-24-2719-2006">DOI</a>]</li>
-  <li>A. B. Collier, A. R. W. Hughes, J. Lichtenberger, and P. Steinbach, "Seasonal and diurnal variation of lightning activity over southern Africa and correlation with European whistler observations," <em>Annales Geophysicae</em>, vol. 24, no. 2, pp. 529–542, 2006. [<a href="http://dx.doi.org/10.5194/angeo-24-529-2006">DOI</a>]</li>
-  <li>M. Kokorowski, J. G. Sample, R. H. Holzworth, E. A. Bering, S. D. Bale, J. B. Blake, A. B. Collier, A. R. W. Hughes, E. H. Lay, R. P. Lin, M. P. McCarthy, R. M. Millan, H. Moraal, T. P. O'Brien, G. K. Parks, M. Pulupa, B. D. Reddell, D. M. Smith, P. H. Stoker, and L. Woodger, "Rapid fluctuations of stratospheric electric field following a solar energetic particle event," <em>Geophysical Research Letters</em>, vol. 33, no. 20, 2006. [<a href="http://dx.doi.org/10.1029/2006GL027718">DOI</a>]</li>
-  <li>R. A. Marshall, U. S. Inan, T. Neubert, A. R. W. Hughes, G. SÁtori, J. Bór, A. B. Collier, and T. H. Allin, "Optical observations geomagnetically conjugate to sprite-producing lightning discharges," <em>Annales Geophysicae</em>, vol. 23, no. 6, pp. 2231–2237, 2005. [<a href="http://dx.doi.org/10.5194/angeo-23-2231-2005">DOI</a>]</li>
-  <li>T. Neubert, T. H. Allin, E. Blanc, T. Farges, C. Haldoupis, A. Mika, S. Soula, L. Knutsson, O. van der Velde, R. A. Marshall, U. S. Inan, G. SÁtori, J. Bór, A. R. W. Hughes, A. B. Collier, S. Laursen, and I. L. Rasmussen, "Co-ordinated observations of transient luminous events during the EuroSprite2003 campaign," <em>Journal of Atmospheric and Solar-Terrestrial Physics</em>, vol. 67, no. 8-9, pp. 807–820, 2005. [<a href="http://dx.doi.org/10.1016/j.jastp.2005.02.004">DOI</a>]</li>
-  <li>K. Å. T. Sundberg, A. R. W. Hughes, A. B. Collier, P. T. I. Eriksson, and L. G. Blomberg, "Magnetic field oscillations at SANAE IV related to sudden increases in solar wind dynamic pressure," <em>South African Journal of Science</em>, vol. 101, no. 11, pp. 539–543, 2005. [<a href="http://reference.sabinet.co.za/document/EJC96318">http</a>]</li>
-  <li>A. B. Collier and A. R. W. Hughes, "Modelling substorm chorus events in terms of dispersive azimuthal drift," <em>Annales Geophysicae</em>, vol. 22, no. 12, pp. 4311–4327, 2004. [<a href="http://dx.doi.org/10.5194/angeo-22-4311-2004">DOI</a>]</li>
-  <li>A. B. Collier and A. R. W. Hughes, "Modelling and analysis of substorm-related chorus events," <em>Advances in Space Research</em>, vol. 34, no. 8, pp. 1819–1823, 2004. [<a href="http://dx.doi.org/10.1016/j.asr.2003.07.064">DOI</a>]</li>
-  <li>A. B. Collier and A. R. W. Hughes, "Digital VLF Recording and Analysis System for SANAE–IV," <em>South African Journal of Science</em>, vol. 98, no. 11, pp. 547–550, 2002. [<a href="http://reference.sabinet.co.za/document/EJC97429">http</a>]</li>
-  <li>L. A. Balona, J. B. Hearnshaw, C. Koen, A. B. Collier, I. Machi, M. Mkhosi, and C. Steenberg, "Photometry and line profile variations of the peculiar variable γ Doradus," <em>Monthly Notices of the Royal Astronomical Society</em>, vol. 267, pp. 103–110, 1994. [<a href="http://dx.doi.org/10.1093/mnras/267.1.103">DOI</a>]</li>
+  <li>T. Gjesteland, N. Østgaard, S. Laviola, M. M. Miglietta, E. Arnone, M. Marisaldi, F. Fuschino, A. B. Collier, F. Fabro, and J. Montanya, "<a href="http://dx.doi.org/10.1002/2015JD023704">Observation of intrinsically bright Terrestrial Gamma ray Flashes from the Mediterranean basin,</a>" <em>Journal of Geophysical Research: Atmospheres</em>, vol. 120, no. 23, 2015.</li>
+  
+  
+  <li>N. Østgaard, K. H. Albrecthsen, T. Gjesteland, and A. B. Collier, "<a href="http://dx.doi.org/10.1002/2015GL067064">A new population of Terrestrial Gamma-ray Flashes in the RHESSI data,</a>" <em> Geophysical Research Letters</em>, 2015. </li>
+  
+  
+  <li>C. Antel, A. B. Collier, J. Lichtenberger, and C. J. Rodger, "<a href="http://dx.doi.org/10.1002/2014GL060332">Investigating Dunedin whistlers using volcanic lightning,</a>" <em>Geophysical Research Letters</em>, vol. 41, 2014.</li>
+  
+  
+  <li>E. J. Koen, A. B. Collier, and S. K. Maharaj, "<a href="http://dx.doi.org/10.1063/1.4894529">A particle-in-cell approach to obliquely propagating electrostatic waves,</a>" <em>Physics of Plasmas</em>, vol. 21, 2014. </li>
+  
+  
+  <li>E. J. Koen, A. B. Collier, S. K. Maharaj, and M. A. Hellberg, "<a href="http://dx.doi.org/10.1063/1.4891320">Particle-In-Cell simulations of ion-acoustic waves with application to Saturn's magnetosphere,</a>" <em>Physics of Plasmas</em>, vol. 21, 2014.</li>
+  
+  
+  <li>R. S. Nisi, N. Østgaard, T. Gjesteland, and A. B. Collier, "<a href="http://dx.doi.org/10.1002/2014JA019817">An altitude and distance correction to the source fluence distribution of TGFs,</a>" <em>Journal of Geophysical Research</em>, vol. 119, no. 10, pp. 8698–8704, 2014. </li>
+  
+  
+  <li>A. B. Collier, R. Bürgesser, and E. Ávila, "<a href="http://dx.doi.org/10.1016/j.jastp.2012.10.012">Suitable regions for assessing long term trends in lightning activity,</a>" <em>Journal of Atmospheric and Solar-Terrestrial Physics</em>, vol. 92, pp. 100–104, 2013.</li>
+  
+  
+  <li>K. Cresswell-Moorcock, C. J. Rodger, A. Kero, A. B. Collier, M. A. Clilverd, I. Häggström, and T. Pitkänen, "<a href="http://dx.doi.org/DOI:10.1002/jgra.50598">A Reexamination of Latitudinal Limits of Substorm-Produced Energetic Electron Precipitation,</a>" <em>Journal of Geophysical Research</em>, vol. 118, no. 10, pp. 694–6705, 2013. </li>
+  
+  
+  <li>A. M. de Boer, A. B. Collier, and R. Caballero, "<a href="http://dx.doi.org/10.1002/jgrd.50238">Processes driving thunderstorms over the Agulhas Current,</a>" <em>Journal of Geophysical Research</em>, vol. 118, pp. 2220–2228, 2013. </li>
+  
+  
+  <li>B. Heilig, P. R. Sutcliffe, D. C. Ndiitwani, and A. B. Collier, "<a href="http://dx.doi.org/10.1002/jgra.50215">Statistical study of geomagnetic field line resonances observed by CHAMP and on the ground,</a>" <em>Journal of Geophysical Research</em>, vol. 118, pp. 1934–1947, 2013. ></li>
+  
+  
+  <li>E. J. Koen and A. B. Collier, "<a href="http://dx.doi.org/10.1590/ sajs.2013/802">Mid-latitude Ionospheric Signature of a weak Solar Flare in Winter,"</a> <em>South African Journal of Science</em>, vol. 109, no. 1/2, 2013. </li>
+  
+  
+  <li>J. Lichtenberger, M. Clilverd, B. Heilig, M. Vellanate, J. Manninen, C. J. Rodger, A. B. Collier, A. M. Jorgensen, J. Reda, R. H. Holzworth, and R. Friedel, "<a href="http://dx.doi.org/10.1051/swsc/2013045">The plasmasphere during a space weather event: First results from the PLASMON,</a>" <em>Journal of Space Weather and Space Climate</em>, vol. 3, 2013.</li>
+  
+  
+  <li>R. M. Millan, M. P. McCarthy, J. G. Sample, D. M. Smith, L. D. Thompson, D. G. McGaw, L. A. Woodger, J. G. Hewitt, M. D. Comess, K. B. Yando, A. X. Liang, B. A. Anderson, N. R. Knezek, W. Z. Rexroad, J. M. Scheiman, G. S. Bowers, A. J. Halford, A. B. Collier, M. A. Clilverd, R. P. Lin, and M. K. Hudson, "<a href="http://dx.doi.org/10.1007/s11214-013-9971-z">The Balloon Array for RBSP Relativistic Electron Losses (BARREL),</a>" <em>Space Science Reviews</em>, vol. 179, pp. 503–530, 2013. </li>
+  
+  
+  <li>N. Østgaard, T. Gjesteland, B. E. Carlsson, A. B. Collier, S. A. Cummer, G. Lu, and H. J. Christian, "<a href="http://dx.doi.org/10.1002/grl.50466">Simultaneous observations of optical lightning and terrestrial gamma ray flash from space,</a>" <em>Geophysical Research Letters</em>, vol. 40, 2013. </li>
+  
+  
+  <li>B. Delport, A. B. Collier, J. Lichtenberger, C. J. Rodger, M. Parrot, M. A. Clilverd, and R. H. W. Friedel, "<a href="http://dx.doi.org/10.1029/2012JA017609">Simultaneous observation of chorus and hiss near the plasmapause,</a>" <em>Journal of Geophysical Research</em>, vol. 117, 2012. </li>
+  
+  
+  <li>T. Gjesteland, N. Østgaard, A. B. Collier, B. E. Carlson, C. Eyles, and D. M. Smith, "<a href="http://dx.doi.org/10.1029/2012GL050899">A new method reveals more TGFs in the RHESSI data,</a>" <em>Geophysical Research Letters</em>, vol. 39, 2012. </li>
+  
+  
+  <li>E. J. Koen, A. B. Collier, and S. K. Maharaj, "<a href="http://dx.doi.org/10.1063/1.3695402">Particle-in-cell simulations of beam-driven electrostatic waves in a plasma,</a>" <em>Physics of Plasmas</em>, vol. 19, no. 4, 2012. </li>
+  
+  
+  <li>E. J. Koen, A. B. Collier, and S. K. Maharaj, "<a href="http://dx.doi.org/10.1063/1.3695404">A simulation approach of high-frequency electrostatic waves found in Saturn's magnetosphere,</a>" <em>Physics of Plasmas</em>, vol. 19, no. 4, p. 042102, 2012. </li>
+  
+  
+  <li>N. Østgaard, T. Gjesteland, R. S. Hansen, A. B. Collier, and B. Carlson, "<a href="http://dx.doi.org/10.1029/2011JA017365">The true fluence distribution of terrestrial gamma flashes at satellite altitude,</a>" <em>Journal of Geophysical Research</em>, vol. 117, 2012. </li>
+  
+  
+  <li>A. B. Collier, T. Gjesteland, and N. Østgaard, "<a href="http://dx.doi.org/10.1029/2011JA016612">Assessing the Power Law Distribution of TGFs,</a>" <em>Journal of Geophysical Research</em>, vol. 116, 2011.</li>
+  
+  
+  <li>A. B. Collier and A. R. W. Hughes, "<a href="http://dx.doi.org/10.1016/j.jastp.2011.08.010">Lightning and the African ITCZ,</a>" <em>Journal of Atmospheric and Solar-Terrestrial Physics</em>, vol. 73, no. 16, pp. 2392–2398, 2011. </li>
+  
+  
+  <li>A. B. Collier and A. R. W. Hughes, "<a href="http://dx.doi.org/10.1029/2010JD014455">A Harmonic Model for the Temporal Variation of Lightning Activity over Africa,</a>" <em>Journal of Geophysical Research</em>, vol. 116, 2011. </li>
+  
+  
+  <li>A. B. Collier, J. Lichtenberger, M. A. Clilverd, P. Steinbach, and C. J. Rodger, "<a href="http://dx.doi.org/10.1029/2010JA016197">Source Region for Whistlers Detected at Rothera, Antarctica,</a>" <em>Journal of Geophysical Research</em>, vol. 116, 2011. </li>
+  
+  
+  <li>H. Dahlgren, K. Å. T. Sundberg, A. B. Collier, E. J. Koen, and S. G. Meyer, "<a href="http://dx.doi.org/10.4102/sajs.v107i9/10.491">Solar flares detected by the new narrowband VLF receiver at SANAE IV,</a>" <em>South African Journal of Science</em>, vol. 107, no. 9/10, pp. 1–8, 2011. </li>
+  
+  
+  <li>T. Gjesteland, N. Østgaard, A. B. Collier, B. E. Carlson, M. B. Cohen, and N. G. Lehtinen, "<a href="http://dx.doi.org/10.1029/2011JA016716">Confining the Angular Distribution of Terrestrial Gamma-ray Flash Emission,</a>" <em>Journal of Geophysical Research</em>, vol. 116, 2011. </li>
+  
+  
+  <li>R. M. Millan, M. McCarthy, D. Smith, R. Lin, M. Hudson, J. Sample, L. Woodger, J. Hewitt, K. Yando, B. Anderson, N. Knezek, J. Scheiman, A. Baker, M. Comess, A. Liang, W. Rexroad, M. A. Clilverd, A. B. Collier, M. Panasyuk, D. McGaw, and L. Thompson, "<a href="http://dx.doi.org/10.1016/j.jastp.2011.01.006">Understanding relativistic electron losses with BARREL,</a>" <em>Journal of Atmospheric and Solar-Terrestrial Physics</em>, vol. 73, no. 11-12, pp. 1425–1434, 2011. </li>
+  
+  
+  <li>O. Okike and A. B. Collier, "<a href="http://dx.doi.org/10.1016/j.jastp.2011.01.015">A multivariate study of Forbush decrease simultaneity,</a>" <em>Journal of Atmospheric and Solar-Terrestrial Physics</em>, vol. 73, no. 7-8, pp. 796–804, 2011. </li>
+  
+  
+  <li>E. E. Ávila, R. E. Bürgesser, N. E. Castellano, A. B. Collier, R. H. Compagnucci, and A. R. W. Hughes, "<a href="http://dx.doi.org/10.1016/j.jastp.2010.07.019">Correlations between deep convection and lightning activity on a global scale,</a>" <em>Journal of Atmospheric and Solar-Terrestrial Physics</em>, vol. 72, no. 14-15, pp. 1114–1121, 2010. </li>
+  
+  
+  <li>A. B. Collier, S. Bremner, J. Lichtenberger, J. R. Downs, C. J. Rodger, P. Steinbach, and G. McDowell, "<a href="http://dx.doi.org/10.5194/angeo-28-499-2010">Global lightning distribution and whistlers observed at Dunedin, New Zealand, </a>" <em>Annales Geophysicae</em>, vol. 28, no. 2, pp. 499–513, 2010. </li>
+  
+  
+  <li>J. Lichtenberger, C. Ferencz, D. Hamar, P. Steinbach, C. J. Rodger, M. A. Clilverd, and A. B. Collier, "<a href="http://dx.doi.org/10.1029/2010JA015931">Automatic Whistler Detector and Analyzer system: Implementation of the analyzer algorithm,</a>" <em>Journal of Geophysical Research</em>, vol. 115, 2010. </li>
+  
+  
+  <li>M. A. Clilverd, C. J. Rodger, N. R. Thomson, J. B. Brundell, T. Ulich, J. Lichtenberger, N. Cobbett, A. B. Collier, F. W. Menk, A. Seppälä, P. T. Verronen, and E. Turunen, "<a href="http://dx.doi.org/10.1029/2008SW000412">Remote sensing space weather events: the AARDDVARK network,</a>" <em>Space Weather</em>, vol. 7, 2009. </li>
+  
+  
+  <li>A. B. Collier, B. Delport, A. R. W. Hughes, J. Lichtenberger, P. Steinbach, J. Öster, and C. J. Rodger, "<a href="http://dx.doi.org/10.1029/2008JA013863">Correlation between global lightning and whistlers observed at Tihany, Hungary,</a>" <em>Journal of Geophysical Research</em>, vol. 114, 2009. </li>
+  
+  
+  <li>J. Öster, A. B. Collier, A. R. W. Hughes, L. G. Blomberg, and J. Lichtenberger, "
+J. R. Downs, C. J. Rodger, P. Steinbach, and G. McDowell "<a href="http://dx.doi.org/10.4102/sajs.v105i5/6.98">Spatial correlation between lightning strikes and whistler observations from Tihany, Hungary,</a>" <em>South African Journal of Science</em>, vol. 105, no. 5-6, pp. 234–237, 2009. </li>
+  
+  
+  <li>R. L. Dowden, R. H. Holzworth, C. J. Rodger, J. Lichtenberger, N. Thomson, A. R. Jacobson, E. H. Lay, J. Brundell, T. Lyons, S. O'Keefe, Z. Kawasaki, C. Price, V. Prior, P. Ortega, J. Weinman, Y. Mikhailov, O. Veliz, X. Qie, G. Burns, A. B. Collier, O. Pinto, R. Diaz, C. Adamo, E. Williams, S. Kumar, G. Raga, J. Rosado, E. E. Avila, M. Clilverd, T. Ulich, P. Gorham, T. Shanahan, T. Osipowicz, G. Cook, and Y. Zhao, "<a href="http://dx.doi.org/10.1109/MAP.2008.4674710">World-wide lightning location using VLF propagation in the Earth-ionosphere waveguide,</a>" <em>IEEE Antennas and Propagation Magazine</em>, vol. 50, no. 5, pp. 40–60, 2008. </li>
+  
+  
+  <li>M. Kokorowski, E. A. Bering, M. Ruohoniemi, J. Sample, R. H. Holzworth, S. Bale, J. Blake, A. B. Collier, A. R. W. Hughes, E. H. Lay, R. Lin, M. McCarthy, R. M. Millan, H. Moraal, T. O'Brien, G. K. Parks, M. Pulupa, B. Reddell, D. Smith, P. Stoker, and L. Woodger, "<a href="http://dx.doi.org/10.1016/j.asr.2008.03.006">Magnetospheric electric field variations caused by storm-time shock fronts,</a>" <em>Advances in Space Research</em>, vol. 42, no. 1, pp. 181–191, 2008. </li>
+  
+  
+  <li>A. B. Collier, A. R. W. Hughes, L. G. Blomberg, and P. R. Sutcliffe, "<a href="http://dx.doi.org/10.5194/angeo-24-2719-2006">Evidence of standing waves during a Pi2 pulsation event observed on Cluster,</a>" <em>Annales Geophysicae</em>, vol. 24, no. 10, pp. 2719–2733, 2006. </li>
+  
+  
+  <li>A. B. Collier, A. R. W. Hughes, J. Lichtenberger, and P. Steinbach, "<a href="http://dx.doi.org/10.5194/angeo-24-529-2006">Seasonal and diurnal variation of lightning activity over southern Africa and correlation with European whistler observations,</a>" <em>Annales Geophysicae</em>, vol. 24, no. 2, pp. 529–542, 2006. </li>
+  
+  
+  <li>M. Kokorowski, J. G. Sample, R. H. Holzworth, E. A. Bering, S. D. Bale, J. B. Blake, A. B. Collier, A. R. W. Hughes, E. H. Lay, R. P. Lin, M. P. McCarthy, R. M. Millan, H. Moraal, T. P. O'Brien, G. K. Parks, M. Pulupa, B. D. Reddell, D. M. Smith, P. H. Stoker, and L. Woodger, "<a href="http://dx.doi.org/10.1029/2006GL027718">Rapid fluctuations of stratospheric electric field following a solar energetic particle event,</a>" <em>Geophysical Research Letters</em>, vol. 33, no. 20, 2006. </li>
+  
+  
+  <li>R. A. Marshall, U. S. Inan, T. Neubert, A. R. W. Hughes, G. SÁtori, J. Bór, A. B. Collier, and T. H. Allin, "<a href="http://dx.doi.org/10.5194/angeo-23-2231-2005">Optical observations geomagnetically conjugate to sprite-producing lightning discharges,</a>" <em>Annales Geophysicae</em>, vol. 23, no. 6, pp. 2231–2237, 2005. </li>
+  
+  
+  <li>T. Neubert, T. H. Allin, E. Blanc, T. Farges, C. Haldoupis, A. Mika, S. Soula, L. Knutsson, O. van der Velde, R. A. Marshall, U. S. Inan, G. SÁtori, J. Bór, A. R. W. Hughes, A. B. Collier, S. Laursen, and I. L. Rasmussen, "<a href="http://dx.doi.org/10.1016/j.jastp.2005.02.004">Co-ordinated observations of transient luminous events during the EuroSprite2003 campaign,</a>" <em>Journal of Atmospheric and Solar-Terrestrial Physics</em>, vol. 67, no. 8-9, pp. 807–820, 2005. </li>
+  
+  
+  <li>K. Å. T. Sundberg, A. R. W. Hughes, A. B. Collier, P. T. I. Eriksson, and L. G. Blomberg, "<a href="http://reference.sabinet.co.za/document/EJC96318">Magnetic field oscillations at SANAE IV related to sudden increases in solar wind dynamic pressure,</a>" <em>South African Journal of Science</em>, vol. 101, no. 11, pp. 539–543, 2005. </li>
+  
+  
+  <li>A. B. Collier and A. R. W. Hughes, "<a href="http://dx.doi.org/10.5194/angeo-22-4311-2004">Modelling substorm chorus events in terms of dispersive azimuthal drift,</a>" <em>Annales Geophysicae</em>, vol. 22, no. 12, pp. 4311–4327, 2004. </li>
+  
+  
+  <li>A. B. Collier and A. R. W. Hughes, "<a href="http://dx.doi.org/10.1016/j.asr.2003.07.064">Modelling and analysis of substorm-related chorus events,</a>" <em>Advances in Space Research</em>, vol. 34, no. 8, pp. 1819–1823, 2004. </li>
+  
+  
+  <li>A. B. Collier and A. R. W. Hughes, "<a href="http://reference.sabinet.co.za/document/EJC97429">Digital VLF Recording and Analysis System for SANAE–IV,</a>" <em>South African Journal of Science</em>, vol. 98, no. 11, pp. 547–550, 2002. </li>
+  
+  
+  <li>L. A. Balona, J. B. Hearnshaw, C. Koen, A. B. Collier, I. Machi, M. Mkhosi, and C. Steenberg, "<a href="http://dx.doi.org/10.1093/mnras/267.1.103">Photometry and line profile variations of the peculiar variable γ Doradus,</a>" <em>Monthly Notices of the Royal Astronomical Society</em>, vol. 267, pp. 103–110, 1994. </li>
+  
+  
 </ul>
