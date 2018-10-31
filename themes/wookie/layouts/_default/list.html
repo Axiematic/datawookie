@@ -1,5 +1,9 @@
 {{ partial "header.html" . }}
 {{ if hasPrefix .URL "/blog/" }}
+  <p>Check out <a href="https://www.r-bloggers.com/">R-bloggers</a> for more excellent content!</p>
+  <div>
+  {{ partial "pagination.html" . }}
+  </div>
   {{ range sort .Paginator.Pages }}
     <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
     <p>
@@ -15,6 +19,8 @@
     {{ end }}
     </div>
   {{ end }}
+  <div>
   {{ partial "pagination.html" . }}
+  </div>
 {{ end }}
 {{ partial "footer.html" . }}

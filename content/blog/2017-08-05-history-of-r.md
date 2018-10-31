@@ -20,6 +20,11 @@ This is a work in progress. The information is cobbled together from a range of 
 - 2019:
 	- [useR!](http://www.user2019.fr/) (Toulouse, France)
 - 2018:
+    - <kbd class="bg-primary">RStudio-1.1.456</kbd> (2018-07-19)
+    - <kbd>R-3.5.1</kbd> "Feather Spray" (2018-07-02)
+    - <kbd class="bg-primary">RStudio-1.1.453</kbd> (2018-05-16)
+    - <kbd>R-3.5.0</kbd> "Joy in Playing" (2018-04-23)
+    - <kbd class="bg-primary">RStudio-1.1.447</kbd> (2018-04-18)
     - <kbd>R-3.4.4</kbd> "Someone to Lean On" (2018-03-15)
     - <kbd class="bg-primary">RStudio-1.1.442</kbd> (2018-03-12)
     - <kbd class="bg-primary">RStudio-1.1.423</kbd> (2018-02-07)
@@ -28,6 +33,8 @@ This is a work in progress. The information is cobbled together from a range of 
     - [useR!](https://user2018.R-project.org/) (Brisbane, Australia)
     - [R/Finance](http://www.rinfinance.com/) (Chicago, IL, USA)
     - [satRday](http://capetown2018.satrdays.org/) (Cape Town, South Africa)
+    - [satRday](http://cardiff2018.satrdays.org/) (Cardiff, Wales)
+    - [satRday](http://belgrade2018.satrdays.org/) (Belgrade, Serbia)
     - [rstudio::conf](https://www.rstudio.com/conference/) (San Diego, CA, USA)
 - 2017:
     - <kbd>R-3.4.3</kbd> "Kite-Eating Tree" (2017-11-30)
@@ -84,13 +91,13 @@ This is a work in progress. The information is cobbled together from a range of 
 - 2012:
     - <kbd>R-2.15.2</kbd> "Trick or Treat" (2012-10-26)
     - <kbd>R-2.15.1</kbd> "Roasted Marshmallows" (2012-06-22)
-    - <kbd>R-2.15.0</kbd> (2012-03-30)
-    - <kbd>R-2.14.2</kbd> (2012-02-29)
+    - <kbd>R-2.15.0</kbd> "Easter Beagle" (2012-03-30)
+    - <kbd>R-2.14.2</kbd> "Gift-Getting Season" (2012-02-29)
 	- [useR!](https://www.r-project.org/conferences/useR-2012) (Nashville, TN, USA)
     - The R Journal ([4/1](https://journal.r-project.org/archive/2012-1/) and [4/2](https://journal.r-project.org/archive/2012-2/))
 - 2011:
-    - <kbd>R-2.14.1</kbd> (2011-12-22)
-    - <kbd>R-2.14.0</kbd> (2011-10-31)
+    - <kbd>R-2.14.1</kbd> "December Snowflakes" (2011-12-22)
+    - <kbd>R-2.14.0</kbd> "Great Pumpkin" (2011-10-31)
     - <kbd>R-2.13.2</kbd> (2011-09-30)
     - <kbd>R-2.13.1</kbd> (2011-07-08)
     - <kbd>R-2.13.0</kbd> (2011-04-13)
@@ -184,7 +191,9 @@ This is a work in progress. The information is cobbled together from a range of 
 	- R released as Open-Source Software
 - 1993:
 	- Started as a research project (Auckland, New Zealand)
-	- Initial work announced on the [<code>s-news</code>](http://www.biostat.wustl.edu/s-news/) mailing list
+	- Initial work announced on the <code>s-news</code> mailing list
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z1vTSdRolgI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Sources
 

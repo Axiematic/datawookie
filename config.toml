@@ -3,6 +3,10 @@ title = "datawookie"
 theme = "wookie"
 baseurl = "https://datawookie.netlify.com/"
 
+googleAnalytics = "UA-89552291-2"
+
+paginate = 30
+
 # Limit number of entries in RSS feeds.
 #
 rssLimit = 20
@@ -15,9 +19,16 @@ description = ""
 author = "Andrew B. Collier"
 # logoimage = "images/logo.jpg"
 # copyright = "foo"
+twitterAuthor = "@datawookie"
+# twitterSite = "@invalid_input"
 
 [permalinks]
-blog  = "/blog/:year/:month/:day/:title/"
+blog  = "/blog/:year/:month/:slug/"
+
+[sitemap]
+changefreq = "monthly"
+priority = 0.5
+filename = "sitemap.xml"
 
 [taxonomies]
 tags = "tags"
@@ -29,15 +40,10 @@ url = "/"
 
 [[menu.main]]
 weight = 2
-name = "Résumé"
-url = "/resume/"
-
-[[menu.main]]
-weight = 3
 name = "Blog"
 url = "/blog/"
 
 [[menu.main]]
-weight = 4
-name = "Contact"
-url = "/contact/"
+weight = 3
+name = "Résumé"
+url = "/resume/"

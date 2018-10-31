@@ -1,5 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
-@import url('https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i|Open+Sans:400,400i,600,600i,700,700i');
+@import url('https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700|Oswald|Open+Sans:400,400i,600,600i,700,700i');
+
+/* Options for name on main page. */
+@import url('https://fonts.googleapis.com/css?family=Dosis|Gugi|Montserrat+Alternates|Nixie+One|Orbitron|Philosopher');
 
 html,
 body {
@@ -8,6 +10,19 @@ body {
   font-family: Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
   font-size: 14px;
+}
+
+.wookie-handle {
+  font-family: Orbitron;
+  font-size: 12rem;
+  /*padding-bottom: 18rem;*/
+  /*padding-top: 18rem;*/
+}
+
+.wookie-logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #header {
@@ -87,13 +102,13 @@ nav a:hover {
 }
 
 #header {
-  border-bottom: 1px dashed #aaa;
+  /*border-bottom: 1px dashed #aaa;*/
 }
 
 /*#content,*/
 #footer,
 hr {
-  border-top: 1px dashed #aaa;
+  /*border-top: 1px dashed #aaa;*/
 }
 
 #content {
@@ -106,10 +121,14 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Lora', serif;
+  font-family: 'Oswald', sans-serif;
   font-weight: 400;
   margin-bottom: 5px;
   margin-top: 5px;
+}
+
+h3 {
+  font-size: 1.5rem;
 }
 
 h2.resume {
@@ -120,20 +139,26 @@ strong, b {
   font-weight: bold;
 }
 
-ol {
-  padding-left: 0px;
-  // list-style-position: inside;
-}
-
 #article p, #article ol li, #article ul li {
   text-align: justify;
 }
 
 #article blockquote {
-  font-family: 'Lora', serif;
+  /*font-family: 'Lora', serif;*/
   font-style: italic;
-  font-size: 1.05em;
+  /*font-size: 1.05em;*/
   line-height: 1.5em;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+#article blockquote cite {
+  display: block;
+  font-style: normal;
+  text-align: left;
+}
+#article blockquote cite:before {
+  content: "\2014 \2009 ";
 }
 
 #article dl dt {
@@ -151,6 +176,15 @@ ol {
 #article .tags a:visited,
 #article .tags a:hover {
   color: #555;
+  font-size: 85%;
+  /*padding: 5px;*/
+  padding: .25em .4em;
+  /*border-radius: 5px;*/
+  border-radius: .25rem;
+  line-height: 1;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
 }
 
 hr {
@@ -175,7 +209,7 @@ img.left {
 }
 
 table {
-  border-collapse: collapse;
+  /*border-collapse: collapse;*/
   margin-top: 5px;
   margin-bottom: 5px;
 }
@@ -195,32 +229,96 @@ table {
 ul.pagination {
   padding: 0;
   list-style-type: none;
+  float: right;
+  margin-bottom: 5px;
 }
 
 .pagination li {
-  display: inline-block;
+  display: list-item;
 }
 
-.pagination .active a:link,
-.pagination .active a:active,
-.pagination .active a:visited,
-.pagination .active a:hover,
-.pagination .disabled a:link,
-.pagination .disabled a:active,
-.pagination .disabled a:visited,
-.pagination .disabled a:hover {
-  color: #555;
+.pagination li a {
+  /*padding: 5px;*/
+  border: 1px solid #dee2e6;
+  transition: background-color .3s;
+  margin-left: -1px;
+  padding: .4rem .6rem;
+}
+
+.pagination a {
   text-decoration: none;
 }
 
-table.experience {
+.pagination .disabled a {
+  pointer-events: none;
+  color: grey;
+}
+
+.pagination .active a {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.pagination li:not(.active) a:hover {
+  background-color: #ddd;
+}
+
+th, td {
+  vertical-align: baseline;
+}
+
+table.experience, table.education {
   width: 100%;
 }
 
-table.experience td.duration {
+table.experience td.duration,
+table.education td.duration {
   padding-left: 10px;
   text-align: right;
 }
+
+a.btn {
+  color: white;
+}
+
+/* LISTS ------------------------------------------------------------------- */
+
+ol, ul {
+  padding-left: 0px;
+  // list-style-position: inside;
+}
+
+li > p {
+  margin-bottom: 0;
+}
+li > div > pre {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+li > ul, li > ol {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+/* GIST -------------------------------------------------------------------- */
+
+.gist .gist-file {
+  border-style: dashed !important;
+  border-color: black !important;
+  border-width: 1px;
+}
+
+.gist .gist-file > .gist-data article {
+  font-family: Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  font-size: 14px;
+}
+
+.gist .gist-file > .gist-data .markdown-body h2 {
+  border-bottom: none;
+}
+
+/* MEDIA ------------------------------------------------------------------- */
 
 @media (min-width: 768px) {
 }
@@ -271,5 +369,26 @@ table.experience td.duration {
   nav ul.second li a,
   nav ul.third li a {
     padding: 0.75em 1em;
+  }
+}
+
+@media not print {
+  .onlyprint {
+    display: none;
+  }
+}
+
+@media print {
+  .notprint {
+    display: none;
+  }
+  header nav, footer {
+    display: none;
+  }
+  @page {
+    margin: 0.5cm;
+  }
+  a {
+    text-decoration: none !important;;
   }
 }

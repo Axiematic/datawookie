@@ -1,7 +1,7 @@
 ---
 author: Andrew B. Collier
 date: 2017-09-22T11:00:00Z
-tags: ["Docker", "Wordpress", "Ubuntu", "MySQL"]
+tags: ["Docker", "Wordpress", "Linux", "MySQL"]
 title: Quick Wordpress Install with Docker
 ---
 
@@ -9,13 +9,14 @@ I've just put together a [Wordpress](https://wordpress.com/) site for my older d
 
 <!--more-->
 
-The first thing that you need to do is [install Docker]({{ site.baseurl }}{% post_url 2017-09-14-installing-docker-ubuntu %}). With that in place it's a simple matter to instantiate a couple of images and the whole thing is up an running.
+The first thing that you need to do is [install Docker]({{< relref "2017-09-14-installing-docker-ubuntu.md" >}}). With that in place it's a simple matter to instantiate a couple of images and the whole thing is up an running.
 
 ![](/img/logo/docker-logo.png)
 
 ## MySQL Docker Container
 
 Wordpress stores content in a MySQL database. Since we want to persist that data beyond the lifespan of a Docker container we should store the data on the host.
+
 First create a folder for the database data.
 
 {{< highlight bash >}}
@@ -25,7 +26,7 @@ mkdir ~/mysql-data
 Next create a (temporary) environment variable to store the MySQL `root` user password. This is not really necessary, but it made my life easier.
 
 {{< highlight bash >}}
-MYSQL_ROOT_PASSWORD="Perc!oreggIn2"
+export MYSQL_ROOT_PASSWORD="PercoreggIn2"
 {{< /highlight >}}
 
 Now launch an instance of the [MySQL Docker image](https://hub.docker.com/_/mysql/). Note that the folder created above is listed as a volume and linked to the folder `/var/lib/mysql` on the container.
@@ -34,7 +35,7 @@ Now launch an instance of the [MySQL Docker image](https://hub.docker.com/_/mysq
 docker run --name mysql \
   -v ~/mysql-data:/var/lib/mysql \
   -e MYSQL_ROOT_PASSWORD=$MYSQL_ROOT_PASSWORD \
-  -d mysql:latest
+  -d mysql:5.7.22
 {{< /highlight >}}
 
 Check that the container is up and running.
@@ -62,8 +63,13 @@ docker run --name wordpress \
   --link mysql:mysql \
   -p 8080:80 \
   -v ~/wp-content:/var/www/html/wp-content \
-  -d wordpress:latest
+  -e WORDPRESS_DB_NAME=wordpress \
+  -d --rm wordpress:latest
 {{< /highlight >}}
+
+Notes:
+
+- It's not necessary to specify the `WORDPRESS_DB_NAME` environment variable, but handy to know what's possible. There are a few other useful environment variables too.
 
 Again we check that the container is up and running.
 
@@ -82,11 +88,19 @@ lynx http://localhost/
 
 If you get something that looks like a (text mode) web page then you are in business.
 
-![](/img/logo/logo-nginx.png)
+## An Easier Way
+
+A simpler way to set this all up is to use `docker-compose`. You just need to create a YAML file which defines the services.
+
+<script src="https://gist.github.com/DataWookie/22fbb485d6d9af1582c4a2add42f041f.js"></script>
 
 ## Configuring NGINX
 
-Finally we need to expose the site to the outside world. I don't pretend to be particularly competent with [NGINX](https://nginx.org/en/), but the configuration below worked for me, exposing the site on port 80.
+![](/img/logo/logo-nginx.png)
+
+Finally we need to expose the site to the outside world. If you are setting this up on an EC2 instance then you just need to make sure that port 8080 allows inbound connections (add a suitable security group) and you're ready to roll.
+
+I don't pretend to be particularly competent with [NGINX](https://nginx.org/en/), but the configuration below worked for me, exposing the site on port 80.
 
 {{< highlight text >}}
 upstream wordpress {

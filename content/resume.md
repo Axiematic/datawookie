@@ -7,12 +7,8 @@ title: Andrew B. Collier
 
 <table class="experience">
 <tr><td><a href="http://www.exegetic.biz/">Exegetic Analytics</a></td><td class="position">Founder & Consulting Data Scientist</td><td class="duration">2008 - present</td></tr>
-<tr><td><a href="http://capetown2018.satrdays.org/">#satRdayCapeTown</a></td><td class="position">Conference Organiser</td><td class="duration">2018</td></tr>
 <tr><td><a href="https://www.toptal.com/">Toptal</a></td><td class="position">Freelance Data Scientist</td><td class="duration">2016 - present</td></tr>
-<tr><td><a href="http://www.ixperience.co.za">iXperience</a></td><td class="position">Head Teacher (Data Science)</td><td class="duration">2017</td></tr>
-<tr><td><a href="http://capetown2017.satrdays.org/">#satRdayCapeTown</a></td><td class="position">Conference Organiser</td><td class="duration">2017</td></tr>
 <tr><td><a href="http://www.derivco.com/">Derivco</a></td><td class="position">Senior Data Scientist</td><td class="duration">2013 - 2017</td></tr>
-<tr><td><a href="http://www.ixperience.co.za">iXperience</a></td><td class="position">Head Teacher (Data Science)</td><td class="duration">2016</td></tr>
 <tr><td><a href="https://birkeland.uib.no/">University of Bergen</a> (Norway)</td><td class="position">Researcher</td><td class="duration">2013 - 2014</td></tr>
 <tr><td><a href="http://scp.ukzn.ac.za/">University of KwaZulu-Natal</a> (UKZN)</td><td class="position">Honorary Senior Lecturer</td><td class="duration">2004 - 2015</td></tr>
 <!--
@@ -27,11 +23,30 @@ Could add: * List of students supervised.
 <tr><td><a href="https://www.environment.gov.za/">Department of Environmental Affairs</a></td><td class="position">Antarctic Expedition Member</td><td class="duration">1994 - 1995</td></tr>
 </table>
 
-<p>More details on each of these positions can be found on <a target="_blank" href="http://www.linkedin.com/in/datawookie">LinkedIn</a>.</p>
+<p>More details of these positions can be found on my <a href="http://www.linkedin.com/in/datawookie">LinkedIn profile</a>.</p>
+
+A selection of training courses I have given:
+<ul>
+  <li> Introduction to SQL, [Democratic Alliance](https://www.da.org.za/) (Cape Town), October 2018.</li>
+  <li> Machine Learning with Python, [PyCon](https://za.pycon.org/) (Johannesburg), October 2018.</li>
+  <li> Introduction to Spark, [Vantage Data](https://www.vantagedata.co.za/), September 2018.
+  <li> Automated Reporting with R: Essentials, [Thermo Fisher](https://www.brahms.de/) (Hennigsdorf, Germany), July 2018.
+  <li> Building Packages with R: Essentials, [Thermo Fisher](https://www.brahms.de/) (Hennigsdorf, Germany), July 2018.
+  <li> Data Science with R: Beginners' Course, Investec (Johannesburg), June 2018.
+  <li> Web Scraping with R, Rise (Cape Town), June 2018.
+  <li> Web Scraping with Python, [PyCon](https://za.pycon.org/) (Cape Town), October 2017.</li>
+  <li> Data Science (Head Teacher) , <a href="http://www.ixperience.co.za">iXperience</a>, 2016, 2017 and 2018.
+</ul>
+
+Conferences I have organised:
+<ul>
+  <li> <a href="http://capetown2018.satrdays.org/">#satRday (CapeTown)</a> (2018).
+  <li> <a href="http://capetown2017.satrdays.org/">#satRday (CapeTown)</a> (2017).
+</ul>
 
 <h2 class="resume">Education</h2>
 
-<table>
+<table class="education">
 <tr><td>PhD</td><td>Space Physics</td><td>Royal Institute of Technology, Stockholm</td> <td class="duration">2006</td></tr>
 <tr><td></td><td colspan="3"><em>Thesis: <a href="https://www.researchgate.net/publication/235672270_VLF_and_ULF_Waves_Associated_with_Magnetospheric_Substorms">VLF and ULF Waves Associated with Magnetospheric Substorms</a></em></td></tr>
 <tr><td>Licentiate</td><td>Space Physics</td><td>Royal Institute of Technology, Stockholm</td> <td class="duration">2004</td></tr>
@@ -51,37 +66,45 @@ Could add: * List of students supervised.
 ### Fluent
 
 <ul>
-<li> R. <!-- Packages on CRAN: <a href="https://cran.r-project.org/web/packages/feedeR/index.html">feedeR</a>, <a href="https://cran.r-project.org/web/packages/liqueueR/index.html">liqueueR</a> and <a href="https://cran.r-project.org/web/packages/ubeR/index.html">ubeR</a>. -->
-<li> SQL.
-<li> Data Science; Data Analysis; Machine Learning; Web Scraping.
-<li> Linux, bash (and associated shell tools), regular expressions.
-<li> Version Control and Git.
-<li> Training and mentoring.
-<li> Explaining complex topics to expert and lay audiences.
+  <li> R. <!-- Packages on CRAN: <a href="https://cran.r-project.org/web/packages/feedeR/index.html">feedeR</a>, <a href="https://cran.r-project.org/web/packages/liqueueR/index.html">liqueueR</a> and <a href="https://cran.r-project.org/web/packages/ubeR/index.html">ubeR</a>. -->
+  <li> SQL.
+  <li> Data Science; Data Analysis; Machine Learning; Web Scraping.
+  <li> Linux, bash (and associated shell tools), regular expressions.
+  <li> Amazon Web Services (AWS) and Azure.
+  <li> Version Control and Git.
+  <li> Training and mentoring.
+  <li> Explaining complex topics to expert and lay audiences.
 </ul>
 
 ### Competent
 
 <ul>
-<li> Python.
-<li> Django, Jekyll, Bootstrap, HTML, CSS and SASS.
-<li> JavaScript and D3.
-<li> JSON and XML.
-<li> Docker.
-<li> Continuous Integration.
-<li> QGIS.
-</ul>
-<h3>Conversant</h3>
-<ul>
-<li> Julia, C, C++ and FORTRAN.
+  <li> Python.
+  <li> Spark.
+  <li> Stan (with PyStan and RStan).
+  <li> Django, Jekyll, Bootstrap, HTML, CSS and SASS.
+  <!-- <li> JavaScript and D3. -->
+  <!-- <li> JSON and XML. -->
+  <li> Docker.
+  <li> Continuous Integration.
 </ul>
 
+### Conversant
+
+<ul>
+  <li> Julia, C, C++ and FORTRAN.
+  <li> Tableau.
+  <li> GIS.
+</ul>
+
+<div class="notprint">
 <h2 class="resume">Certifications</h2>
 
-### Technical
+<h3>Technical</h3>
 
 <p><a href="https://software-carpentry.org/">Software Carpentry</a> Instructor.</p>
 
+Introduction to Apache Spark and AWS;
 Data Science Specialisation <!-- Johns Hopkins University  --> (The Data Scientist’s Toolbox; R Programming; Getting and Cleaning Data; Exploratory Data Analysis; Reproducible Research; Statistical Inference; Regression Models; Developing Data Products; Practical Machine Learning);
 Data Analysis; <!-- Johns Hopkins University  -->
 Machine Learning;  <!-- Stanford Online  -->
@@ -105,7 +128,7 @@ Introduction to C# Programming;  <!-- Microsoft  -->
 Computational Photography;  <!-- Georgia Institute of Technology  -->
 Computational Investing.
 
-### Soft Skills
+<h3>Soft Skills</h3>
 
 <p>Certified ScrumMaster.</p>
 
@@ -118,26 +141,54 @@ Project Management Programme; <!-- Peakford Management Consultants  -->
 Toastmasters International Speechcraft Course; <!-- Toastmasters  -->
 Derivco Leadership Code;
 How to Start and Run a Successful Freelancing Business. <!-- Pluralsight  -->
+</div>
 
+<div class="notprint">
 <h2 class="resume">Interests</h2>
 
 My interests include (but are not limited to): R, data, web development, running (road and trail), photography, gardening, food (especially garlic, capers and red wine).
+</div>
 
-<h2 class="resume">Presentations</h2>
+<div class="notprint">
+<h2 class="resume" id="presentations">Presentations</h2>
+
+
+<!--
+Session chairs:
+
+- JuliaCon (2018)
+-->
 
 <ul>
-  <li>A. B. Collier, "Data Science Productivity Hacks." <a href="http://capetown2018.satrdays.org/">satRday</a>, Cape Town, South Africa, 17 March 2018. [<a href="https://datawookie-talks.github.io/productivity-hacks-r/">slides</a>] [<a href="https://youtu.be/fkN1ZmBz5CU">video</a>]</li>
+  <li>A. B. Collier, "A Gentle Introduction to Bayesian Methods with Python", <a href="https://breizhdataday.github.io/">Breizh Data Day</a>, Rennes, France, 19 October 2018. <a href="https://github.com/DataWookie/talk-breizh-data-day-2018-gentle-bayesian"><i class="fab fa-github"></i></a></li>
+  <li>A. B. Collier, "Bayesian Analysis in Python: A Starter Kit", <a href="https://za.pycon.org/">PyCon</a>, Johannesburg, 12 October 2018. <a href="https://github.com/DataWookie/talk-pycon-2018-johannesburg-gentle-bayesian"><i class="fab fa-github"></i></a> <a href="https://www.youtube.com/watch?v=-8VTcuCJF1s"><i class="fab fa-youtube"></i></a></li> <!-- https://archive.org/details/pyconza2018-Bayesian_Analysis_in_Python_A_Starter_Kit -->
+  <li>A. B. Collier, "Wading into Stream Analytics", <a href="http://www.sqlsaturday.com/803/EventHome.aspx">SQL Saturday (Durban)</a>, 15 September 2018.</li>
+  <li>A. B. Collier, "Wading into Stream Analytics", <a href="http://www.sqlsaturday.com/793/eventhome.aspx">SQL Saturday (Cape Town)</a>, 8 September 2018.</li>
+  <li>A. B. Collier, "Wading into Stream Analytics", <a href="http://www.sqlsaturday.com/785/eventhome.aspx">SQL Saturday (Johannesburg)</a>, 1 September 2018.</li>
+  <li>A. B. Collier, "First Steps with Stan", Derivco Brown Bag, 24 August 2018.</li>
+  <li>A. B. Collier, "Getting Started with Bayesian Techniques in Julia" (poster), <a href="http://juliacon.org/2018/">JuliaCon</a>, 9 August 2018.</li>
+  <li>A. B. Collier, Moderator for <a href="https://www.crowdcast.io/e/storytelling-with-data-science/">Storytelling With Data Science</a> panel discussion hosted by Toptal, 26 July 2018.
+  <li>A. B. Collier, and E. F. Collier, "Setting up WordPress with AWS", <a href="https://www.meetup.com/WordPress-Joburg/events/fmbwmpyxkbwb/">WordPress Jo'burg</a>, 17 July 2018.</li>
+  <li>A. B. Collier, "Data Science in the Cloud: Getting Started", <a href="https://www.meetup.com/Berlin-R-Users-Group/events/251963888/">Berlin R Users Group</a>, 10 July 2018.</li>
+  <li>A. B. Collier, "Interfacing R and Python", <a href="https://pydata.org/berlin2018/">PyData (Berlin)</a>, 8 July 2018. [<a href="https://datawookie.github.io/talk-mixed-python-r/">slides</a>] <a href="https://www.youtube.com/watch?v=pjDGB9i7kyI"><i class="fab fa-youtube"></i></a></li>
+  <li>A. B. Collier, "Data Science in the Cloud: Getting Started", <a href="https://www.meetup.com/en-AU/rladies-cape-town/">R-Ladies Cape Town</a>, 19 June 2018.</li>
+  <li>A. B. Collier, "Taking the Bayesian Leap", <a href="https://2018.erum.io/">eRum</a>, Budapest, Hungary, 15 May 2018. [<a href="https://datawookie.github.io/talk-first-steps-with-stan/">slides</a>] <a href="https://youtu.be/kr_pAPS_oyM"><i class="fab fa-youtube"></i></a></li>
+  <li>A. B. Collier, "Getting Involved with the R Community", RCCP eConversations, 20 April 2018.
+  <!-- RCCP = Rural Campus Connectivity Project -->
+  <!-- https://twitter.com/aneldavdw/status/987267618531893248 -->
+  <li>A. B. Collier, Moderator for <a href="https://www.crowdcast.io/e/future-of-icos">The Future of ICOs</a> panel discussion hosted by Toptal, 11 April 2018.
+  <li>A. B. Collier, "Data Science Productivity Hacks." <a href="http://capetown2018.satrdays.org/">satRday</a>, Cape Town, South Africa, 17 March 2018. [<a href="https://datawookie-talks.github.io/productivity-hacks-r/">slides</a>] <a href="https://youtu.be/Q7FEbgPljEs"><i class="fab fa-youtube"></i></a></li>
   <li>A. B. Collier, "Running an Ethereum Node." <a href="https://www.meetup.com/Durban-Ethereum-Meetup/events/246648015/">Durban Ethereum Meetup</a>, Derivco, Durban, South Africa, 31 January 2018.</li>
   <li>A. B. Collier, "Hello Durban, tell me how you're doing!" <a href="http://digifest.dut.ac.za/">Digifest</a>, Durban University of Technology, Durban, South Africa, 2017.</li>
   <li>A. B. Collier, and K. Tirok, "Introduction to R." (1 day workshop) Department of Public Health, University of KwaZulu-Natal, Durban, South Africa, 2017.</li>
-  <li>A. B. Collier, "Web Scraping: Unleash your Internet Viking." (4 hour workshop) <a href="https://za.pycon.org/">PyConZA</a>, Cape Town, South Africa, 2017.</li>
-  <li>A. B. Collier, "Diagnosing the Long Distance Runner with Django, D3 and R." <a href="https://bulgariawebsummit.com/">Bulgaria Web Summit</a>, Sofia, Bulgaria, 2017. [<a href="https://youtu.be/oSTkrXn2S_c">video</a>]</li>
+  <li>A. B. Collier, "Diagnosing the Long Distance Runner with Django, D3 and R." <a href="https://bulgariawebsummit.com/">Bulgaria Web Summit</a>, Sofia, Bulgaria, 2017. <a href="https://youtu.be/oSTkrXn2S_c"><i class="fab fa-youtube"></i></a></li>
   <li>A. B. Collier, and P. Oxborrow, "Wordpress by Dummies," Derivco Brown Bag, 26 October 2016.</li>
   <li>A. B. Collier, "#PredictiveAnalytics," Derivco Brown Bag, 25 May 2016.</li>
   <li>A. B. Collier, and W. van Deventer, "Jungle Jim and the Hypergeometric Animations," Derivco Brown Bag, 10 April 2015.</li>
   <li>A. B. Collier, "Innovation and Invention," Derivco Brown Bag, 12 March 2015.</li>
   <li>A. B. Collier, "RNG: From Trinity to Table Games," Derivco Brown Bag, 30 September 2014.</li>
   <li>A. B. Collier, "Lightning Activity Predictions for Single Buoy Moorings," in <em>58th Annual Conference of the South African Institute of Physics</em>, Richard's Bay, South Africa, 2013.</li>
+  <li>A. B. Collier, "Clustering Lightning Discharges to Identify Storms", LIGHTS 2013 Conference, Johannesburg, 2013.</li>
   <li>A. B. Collier, "Global Lightning Detection with WWLLN," in <em>NASSP Colloquim</em>, University of Cape Town, Cape Town, 2012.</li>
   <li>A. B. Collier, J. Lichtenberger, C. J. Rodger, M. A. Clilverd, and B. Delport, "Possible Whistler Source Lightning from Correlations," in <em>PLASMON Workshop</em>, Hermanus, South Africa, 2012.</li>
   <li>A. B. Collier, C. J. Rodger, M. A. Clilverd, and B. Delport, "Narrowband VLF Observations as Validation of Plasmaspheric Model," in <em>5th VERSIM Workshop</em>, São Paulo, Brazil, 2012.</li>
@@ -165,7 +216,9 @@ My interests include (but are not limited to): R, data, web development, running
   <li>A. B. Collier, "Sampling Distance to Collision in Quasi-Monte Carlo Neutral Particle Transport," in <em>Proceedings of the Joint International Conference on Mathematical Methods and Supercomputing for Nuclear Applications</em>, Saratoga Springs, New York, 1997.</li>
   <li>A. B. Collier, "The Marion Island Conjugate Experiment," in <em>39th Annual Conference of the South African Institute of Physics</em>, (University of Bophuthatswana), 1994.</li>
 </ul>
+</div>
 
+<div class="notprint">
 <h2 class="resume">Publications</h2>
 
 <ul>
@@ -303,6 +356,9 @@ J. R. Downs, C. J. Rodger, P. Steinbach, and G. McDowell "<a href="http://dx.doi
   
   
   <li>L. A. Balona, J. B. Hearnshaw, C. Koen, A. B. Collier, I. Machi, M. Mkhosi, and C. Steenberg, "<a href="http://dx.doi.org/10.1093/mnras/267.1.103">Photometry and line profile variations of the peculiar variable γ Doradus,</a>" <em>Monthly Notices of the Royal Astronomical Society</em>, vol. 267, pp. 103–110, 1994. </li>
-  
-  
 </ul>
+</div>
+
+<div class="onlyprint">
+  A more detailed version of this document can be found at <a href="{{< ref "resume.md" >}}">{{< ref "resume.md" >}}</a>.
+</div>
