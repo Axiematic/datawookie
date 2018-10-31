@@ -27,6 +27,7 @@ Could add: * List of students supervised.
 
 A selection of training courses I have given:
 <ul>
+  <li> Introduction to SQL, [Democratic Alliance](https://www.da.org.za/) (Cape Town), October 2018.</li>
   <li> Machine Learning with Python, [PyCon](https://za.pycon.org/) (Johannesburg), October 2018.</li>
   <li> Introduction to Spark, [Vantage Data](https://www.vantagedata.co.za/), September 2018.
   <li> Automated Reporting with R: Essentials, [Thermo Fisher](https://www.brahms.de/) (Hennigsdorf, Germany), July 2018.
