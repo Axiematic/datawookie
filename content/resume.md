@@ -266,8 +266,7 @@ Session chairs:
   <li>A. B. Collier and A. R. W. Hughes, <a href="http://dx.doi.org/10.5194/angeo-22-4311-2004">Modelling substorm chorus events in terms of dispersive azimuthal drift</a>, <em>Annales Geophysicae</em>, vol. 22, no. 12, pp. 4311–4327, 2004. </li>
   <li>A. B. Collier and A. R. W. Hughes, <a href="http://dx.doi.org/10.1016/j.asr.2003.07.064">Modelling and analysis of substorm-related chorus events</a>, <em>Advances in Space Research</em>, vol. 34, no. 8, pp. 1819–1823, 2004. </li>
   <li>A. B. Collier and A. R. W. Hughes, <a href="http://reference.sabinet.co.za/document/EJC97429">Digital VLF Recording and Analysis System for SANAE–IV</a>, <em>South African Journal of Science</em>, vol. 98, no. 11, pp. 547–550, 2002. </li>
-  <li>L. A. Balona, J. B. Hearnshaw, C. Koen, A. B. Collier, I. Machi, M. Mkhosi, and C. Steenberg, <a href="http://dx.doi.org/10.1093/mnras/267.1.103">Photometry and line profile variations of the peculiar variable γ Doradus</a>,
-   <em>Monthly Notices of the Royal Astronomical Society</em>, vol. 267, pp. 103–110, 1994. </li>
+  <li>L. A. Balona, J. B. Hearnshaw, C. Koen, A. B. Collier, I. Machi, M. Mkhosi, and C. Steenberg, <a href="http://dx.doi.org/10.1093/mnras/267.1.103">Photometry and line profile variations of the peculiar variable γ Doradus</a>, <em>Monthly Notices of the Royal Astronomical Society</em>, vol. 267, pp. 103–110, 1994. </li>
 </ul>
 </div>
 
