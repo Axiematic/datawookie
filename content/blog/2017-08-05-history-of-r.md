@@ -20,6 +20,7 @@ This is a work in progress. The information is cobbled together from a range of 
 - 2019:
 	- [useR!](http://www.user2019.fr/) (Toulouse, France)
 - 2018:
+    - <kbd class="bg-primary">RStudio-1.1.463</kbd> (2018-10-29)
     - <kbd class="bg-primary">RStudio-1.1.456</kbd> (2018-07-19)
     - <kbd>R-3.5.1</kbd> "Feather Spray" (2018-07-02)
     - <kbd class="bg-primary">RStudio-1.1.453</kbd> (2018-05-16)
