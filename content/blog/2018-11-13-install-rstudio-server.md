@@ -5,9 +5,9 @@ tags: ['R']
 title: Installing RStudio & Shiny Servers
 ---
 
-{% comment %}
+{{< comment >}}
 https://support.rstudio.com/hc/en-us/articles/234653607-Getting-Started-with-RStudio-Server
-{% /comment %}
+{{< /comment >}}
 
 I did a remote install of Ubuntu Server today. This was somewhat novel because it's the first time that I have not had physical access to the machine I was installing on. The server install went very smoothly indeed.
 
