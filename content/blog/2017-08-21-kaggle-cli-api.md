@@ -9,9 +9,12 @@ We've been building some models for Kaggle competitions using an EC2 instance fo
 
 Enter [kaggle-cli](https://github.com/floydwch/kaggle-cli).
 
+*Update:* Apparently kaggle-cli has been deprecated in favour of [kaggle-api](https://github.com/Kaggle/kaggle-api). More information below.
 <!--more-->
 
-## Installation
+## kaggle-cli
+
+### Installation
 
 Installation is very simple.
 
@@ -44,7 +47,7 @@ Commands:
   submit         Submit an entry to a specific competition.
 {{< /highlight >}}
 
-## Downloading Data
+### Downloading Data
 
 We'd use the `download` command to get the data for a particular competition.
 
@@ -76,6 +79,49 @@ kg download -u 'dvader@dstar.gov' -p '6%puZ$9_' -c 'instacart-market-basket-anal
 
 You can use the `-f` switch to grab just a single data file.
 
-## Other Capabilities
+### Other Capabilities
 
 You can also use `kg` to make and list submissions.
+
+## kaggle-api
+
+### Installation
+
+Installation is similarly trivial.
+
+{{< highlight bash >}}
+sudo pip3 install kaggle
+{{< /highlight >}}
+
+### Configuration
+
+You'll need to create a Kaggle API token. Go to the Account tab of your user profile on [Kaggle](https://www.kaggle.com/) and click the "Create New API Token" button. This will automatically download a JSON file, which you should move to `~/.kaggle/kaggle.json`. You might want to ensure that only your user has access to this file.
+
+At this stage you are ready to use the `kaggle` shell command.
+
+{{< highlight text >}}
+usage: kaggle [-h] [-v] {competitions,c,datasets,d,kernels,k,config} ...
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -v, --version         show program's version number and exit
+
+commands:
+  {competitions,c,datasets,d,kernels,k,config}
+                        Use one of:
+                        competitions {list, files, download, submit, submissions, leaderboard}
+                        datasets {list, files, download, create, version, init, metadata, status}
+                        config {view, set, unset}
+    competitions (c)    Commands related to Kaggle competitions
+    datasets (d)        Commands related to Kaggle datasets
+    kernels (k)         Commands related to Kaggle kernels
+    config              Configuration settings
+{{< /highlight >}}
+
+### Downloading Data
+
+To get the data for the Instacart Market Basket Analysis:
+
+{{< highlight bash >}}
+kaggle competitions download 'instacart-market-basket-analysis'
+{{< /highlight >}}
