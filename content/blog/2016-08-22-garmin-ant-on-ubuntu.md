@@ -48,12 +48,14 @@ The two hexadecimal numbers following `ID` in the output above are then used to 
 $ sudo modprobe usbserial vendor=0x0fcf product=0x1008
 {{< /highlight >}}
 
+{{< comment >}}
 You can also check that the corresponding device has been created.
 
 {{< highlight bash >}}
 $ ls -l /dev/ttyANT2
 lrwxrwxrwx 1 root root 15 Aug 21 11:33 /dev/ttyANT2 -> bus/usb/003/030
 {{< /highlight >}}
+{{< /comment >}}
 
 ## Pair and Enjoy
 
