@@ -95,6 +95,8 @@ head(survey, 10)
 wpct(survey$response)
 wpct(survey$response, survey$weight)
 
+raking_summary$general.design.effect
+
 library(Hmisc)
 
 wtd.mean(survey$response)
