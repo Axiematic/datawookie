@@ -3,7 +3,6 @@ author: Andrew B. Collier
 date: 2018-12-26T04:00:00Z
 tags: ['R', 'survey']
 title: "Survey Raking: An Illustration"
-draft: true
 ---
 
 {{< comment >}}
