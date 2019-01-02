@@ -41,6 +41,33 @@ sudo rstudio-server verify-installation
 
 5. RStudio Server runs on port 8787, so you should be able to access it in a browser at `http://<server-ip>:8787`.
 
+Find out more about [managing the server](https://support.rstudio.com/hc/en-us/articles/200532327-Managing-the-Server).
+
+### Whether or not to Start at Boot
+
+RStudio Server does not consume an awful lot of RAM. But on a small machine, every bit of memory can be precious. So perhaps you don't want to have RStudio Server running all the time? No problem!
+
+{{< highlight bash >}}
+# Check whether RStudio Server is running.
+systemctl is-active rstudio-server
+
+# Disable RStudio Server at boot.
+sudo systemctl disable rstudio-server
+
+# Enable RStudio Server at boot.
+sudo systemctl enable rstudio-server
+{{< /highlight >}}
+
+You can then start and stop RStudio Server as and when required.
+
+{{< highlight bash >}}
+# Start RStudio Server.
+sudo systemctl start rstudio-server
+
+# Stop RStudio Server.
+sudo systemctl stop rstudio-server
+{{< /highlight >}}
+
 ## Shiny Server
 
 1. Become root and install the `shiny` package.
@@ -64,3 +91,12 @@ sudo dpkg -i shiny-server-1.5.9.923-amd64.deb
 {{< /highlight >}}
 
 4. Shiny Server runs on port 3838, so you should be able to access it in a browser at `http://<server-ip>:3838`.
+
+### Whether or not to Start at Boot
+
+You can also disable Shiny Server being automatically started at boot.
+
+{{< highlight bash >}}
+# Disable Shiny Server at boot.
+sudo systemctl disable shiny-server
+{{< /highlight >}}
