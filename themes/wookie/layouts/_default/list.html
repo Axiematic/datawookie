@@ -13,9 +13,9 @@
       {{ end }}
     </p>
     <div class="content">
-    {{ .Summary | plainify | safeHTML }}
+    {{ .Description | default .Summary | plainify | safeHTML }}
     {{ if .Truncated }}
-      ... <a href="{{ .Permalink }}">Read more&nbsp;&raquo;</a>
+      <a href="{{ .Permalink }}">Read more&nbsp;&raquo;</a>
     {{ end }}
     </div>
   {{ end }}
