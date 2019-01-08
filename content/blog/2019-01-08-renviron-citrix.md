@@ -5,6 +5,8 @@ tags: ['R']
 title: "Where does .Renviron live on Citrix?"
 ---
 
+<img src="/img/2019/01/citrix-rstudio.png" width="100%">
+
 At one of my clients I run RStudio under Citrix in order to have access to their data.
 
 For the most part this works fine. However, every time I visit them I spend the first few minutes of my day installing packages because my environment does not seem to be persisted from one session to the next.
