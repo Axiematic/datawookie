@@ -55,7 +55,7 @@ We'll assign a new value by setting up a `.Renviron` file. Where should this fil
 [1] "C:/Users/andrewcol/Documents"
 {{< /highlight >}}
 
-Okay, so it needs to go on the Citrix C: drive.
+Okay, so it needs to go on the Citrix C: drive. This is really the crux of the entire process, because if you put it on H: or local C: then it will not be picked up by RStudio on Citrix.
 
 ## Writing to Citrix C:
 
@@ -74,7 +74,7 @@ cat(
 close(renviron)
 {{< /highlight >}}
 
-That's create the `.Renviron` file in the right place and insert the required content.
+That'll create the `.Renviron` file in the right place and insert the required content.
 
 Quick check that it's been created.
 
