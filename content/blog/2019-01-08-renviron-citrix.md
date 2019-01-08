@@ -61,7 +61,7 @@ Okay, so it needs to go on the Citrix C: drive. This is really the crux of the e
 
 ## Writing to Citrix C:
 
-It turns out that it's remarkably difficult to access C: on the Citrix server.
+It turns out that it's remarkably difficult to access C: on the Citrix server. I couldn't get there using File Explorer. I couldn't create a new file there using Notepad or RStudio.
 
 No problem! Write an R script.
 
