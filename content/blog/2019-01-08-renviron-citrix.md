@@ -68,7 +68,7 @@ No problem! Write an R script.
 {{< highlight r >}}
 renviron <- file("C:/Users/andrewcol/Documents/.Renviron", "w")
 cat(
-    "R_LIBS_USER='H:/myCitrixFiles/Documents/R/win-library/3.5'",
+    "R_LIBS_USER='H:/myCitrixFiles/Documents/R/%p-library/%v'",
     "R_USER='H:/myCitrixFiles/Documents'",
     file = renviron,
     sep = "\n"
@@ -76,7 +76,7 @@ cat(
 close(renviron)
 {{< /highlight >}}
 
-That'll create the `.Renviron` file in the right place and insert the required content.
+That'll create the `.Renviron` file in the right place and insert the required content. Note the use of the `%p` and `%v` placeholders which will be automatically replaced with the appropriate platform and R version. See `?R_LIBS_USER`. Thanks to [Henrik Bengtsson](https://github.com/HenrikBengtsson) for reminding me about that!
 
 Quick check that it's been created.
 
@@ -87,3 +87,4 @@ readLines(".Renviron")
 {{< /highlight >}}
 
 Restart RStudio under Citrix. Packages will be installed to H: and should not mysteriously disappear between sessions.
+
