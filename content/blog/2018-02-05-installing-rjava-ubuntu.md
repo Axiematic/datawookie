@@ -3,7 +3,6 @@ author: Andrew B. Collier
 date: 2018-02-05T07:00:00Z
 excerpt_separator: <!-- more -->
 title: Installing rJava on Ubuntu
-draft: false
 tags: ["R", "Linux"]
 ---
 
@@ -22,6 +21,10 @@ sudo apt install -y openjdk-8-jdk openjdk-8-jre
 3. Update where R expects to find various Java files.
     {{< highlight text >}}
 sudo R CMD javareconf
+{{< /highlight >}}
+If you get an error about `jni.h` not being found, then try this:
+    {{< highlight text >}}
+sudo R CMD javareconf JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64/
 {{< /highlight >}}
 4. Install the package.
     {{< highlight r >}}
