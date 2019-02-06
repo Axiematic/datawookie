@@ -64,6 +64,12 @@ make
 
 Time to kick back and wait: this will take some time!
 
+If you are on a multi-core machine then you can build in parallel too.
+
+{{< highlight bash >}}
+make -j$(nproc)
+{{< /highlight >}}
+
 When the build completes, make the `install` target.
 
 {{< highlight bash >}}
