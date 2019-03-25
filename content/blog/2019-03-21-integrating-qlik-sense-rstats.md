@@ -2,6 +2,7 @@
 author: Andrew B. Collier
 date: 2019-03-21T08:30:00Z
 title: Integrating Qlik Sense and R
+tags: ["R"]
 ---
 
 ## Components
