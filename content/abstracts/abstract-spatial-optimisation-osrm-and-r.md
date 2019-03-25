@@ -15,10 +15,12 @@ tags:
 	Spatial Optimisation with OSRM and R
 	</div>
 	<div class="abstract">
-Open Source Routing Machine (OSRM) is a high-performance routing engine for calculating the shortest paths through a road network. The `osrm` package for R exposes these routing data to a wide range of potential applications.
+		Open Source Routing Machine (OSRM) is a high-performance routing engine for calculating the shortest paths through a road network. These calculations are available via Google Maps. However, queries against a local OSRM server are orders of magnitude faster than Google Maps.
 
-In this talk I'll show how to eaily spin up and provision an OSRM server on AWS and use it to solve some simple spatial optimisation problems in R.
+		The osrm package for R exposes these routing data to a wide range of potential applications.
 
-R packages: [osrm](https://cran.r-project.org/web/packages/osrm/index.html), [gaoptim](https://cran.r-project.org/web/packages/gaoptim/index.html).
+		In this talk I'll show how to easily spin up and provision an OSRM server and use it to solve some interesting spatial optimisation problems in R.
+
+		R packages: [osrm](https://cran.r-project.org/web/packages/osrm/index.html), [gaoptim](https://cran.r-project.org/web/packages/gaoptim/index.html).
 	</div>
 </div>

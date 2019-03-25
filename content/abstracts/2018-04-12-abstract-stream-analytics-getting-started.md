@@ -64,6 +64,17 @@ This talk can be based on either of the following technologies:
 
 These are some notes for a talk on getting started with streaming data. The talk takes the form of a demonstration using [Kafka](https://kafka.apache.org/) and [Spark](https://spark.apache.org/) on [Amazon Web Services](https://aws.amazon.com/) (AWS) with some [Docker](https://www.docker.com/), Python and [Jupyter](http://jupyter.org/) thrown in for good measure.
 
+Before the talk:
+
+- launch a cluster
+- update `yum` repository
+- launch an instance to host Kafka.
+
+This is a demo and **things break**! So please setup a backup of
+
+- the Spark cluster and
+- the Kafka server.
+
 ## AWS Overview
 
 A quick, high level overview of AWS. How to launch a remote instance and connect via SSH.
@@ -72,19 +83,20 @@ A quick, high level overview of AWS. How to launch a remote instance and connect
 
 There are a couple of ways to launch a Spark cluster on AWS. I'll be using [Flintrock](https://github.com/nchammas/flintrock).
 
-1. Look at configuration file.
-2. Create a cluster.
+1. Create a cluster.
 
 	{{< highlight bash >}}
 flintrock launch spark
 {{< /highlight >}}
 
-3. Use EC2 console to confirm that instances have been launched.
-4. Take a look at the Security Groups.
-5. Open the Spark UI (port 8080 on the master).
-6. Install Python and missing JARs on cluster.
-7. Install Docker.
-8. Pull and run PySpark notebook. Pulling the image will take a little time, so we can set up Kafka in the meantime.
+2. Look at configuration file.
+3. Look at EMR.
+4. Use EC2 console to confirm that instances have been launched.
+5. Take a look at the Security Groups. Mention ports 8080 and 7077.
+6. Open the Spark UI (port 8080 on the master).
+7. Install Python and missing JARs on cluster.
+8. Install Docker.
+9. Pull and run PySpark notebook. Pulling the image will take a little time, so we can set up Kafka in the meantime.
 
 	{{< highlight bash >}}
 docker pull datawookie/pyspark-notebook
@@ -92,7 +104,7 @@ docker run -d --name jupyter --net=host --user 500 -v $PWD:/home/jovyan/ datawoo
 docker logs jupyter
 {{< /highlight >}}
 
-9. Ensure that port 8888 is open. Browse to the Jupyter URL.
+10. Ensure that port 8888 is open. Browse to the Jupyter URL.
 
 ## Kafka
 
@@ -111,6 +123,10 @@ docker logs jupyter
 
 1. Script to stream tweets.
 2. Script to push tweet contents to Kafka. Check consumer in terminal.
+
+	* Has the Kafka IP address been specified in the script?
+	* Is port 9092 open on the server?
+
 3. Notebooks for consuming tweet content. Sentiment analysis.
 4. Script to push tweets as JSON to Kafka.
 5. Notebook for consuming tweet JSON.
