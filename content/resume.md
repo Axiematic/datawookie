@@ -7,6 +7,7 @@ title: Andrew B. Collier
 
 <table class="experience">
 <tr><td><a href="http://www.exegetic.biz/">Exegetic Analytics</a></td><td class="position">Founder & Consulting Data Scientist</td><td class="duration">2008 - present</td></tr>
+<tr><td><a href="https://www.datacamp.com/">DataCamp</a></td><td class="position">Instructor</td><td class="duration">2018 - present</td></tr>
 <tr><td><a href="https://www.toptal.com/">Toptal</a></td><td class="position">Freelance Data Scientist</td><td class="duration">2016 - present</td></tr>
 <tr><td><a href="http://www.derivco.com/">Derivco</a></td><td class="position">Senior Data Scientist</td><td class="duration">2013 - 2017</td></tr>
 <tr><td><a href="https://birkeland.uib.no/">University of Bergen</a> (Norway)</td><td class="position">Researcher</td><td class="duration">2013 - 2014</td></tr>
@@ -25,8 +26,9 @@ Could add: * List of students supervised.
 
 <p>More details of these positions can be found on my <a href="http://www.linkedin.com/in/datawookie">LinkedIn profile</a>.</p>
 
-A selection of training courses I have given:
+A selection of training courses I have given recently:
 <ul>
+  <li> Version control with Git, [UKZN Software Carpentry Workshop](https://workshops-ukzn.github.io/2018-12-04-UKZN-SWC) (Durban), December 2018.</li>
   <li> Introduction to SQL, [Democratic Alliance](https://www.da.org.za/) (Cape Town), October 2018.</li>
   <li> Machine Learning with Python, [PyCon](https://za.pycon.org/) (Johannesburg), October 2018.</li>
   <li> Introduction to Spark, [Vantage Data](https://www.vantagedata.co.za/), September 2018.
@@ -40,8 +42,9 @@ A selection of training courses I have given:
 
 Conferences I have organised:
 <ul>
-  <li> <a href="http://capetown2018.satrdays.org/">#satRday (CapeTown)</a> (2018).
-  <li> <a href="http://capetown2017.satrdays.org/">#satRday (CapeTown)</a> (2017).
+  <li> <a href="https://joburg2019.satrdays.org/">#satRday (Johannesburg)</a> (2019)
+  <li> <a href="http://capetown2018.satrdays.org/">#satRday (Cape Town)</a> (2018)
+  <li> <a href="http://capetown2017.satrdays.org/">#satRday (Cape Town)</a> (2017)
 </ul>
 
 <h2 class="resume">Education</h2>
@@ -160,6 +163,8 @@ Session chairs:
 -->
 
 <ul>
+  <li>A. B. Collier, "Automated Reporting", <a href="https://paris2019.satrdays.org/">satRday</a>, Paris, 23 February 2019.</li>
+  <li>A. B. Collier, "Automated Reporting", Lunch & Learn, <a href="https://www.wework.com/en-GB/buildings/aldwych-house--london">Aldwych House WeWork</a>, London, 21 February 2019.</li>
   <li>A. B. Collier, "A Gentle Introduction to Bayesian Methods with Python", <a href="https://breizhdataday.github.io/">Breizh Data Day</a>, Rennes, France, 19 October 2018. <a href="https://github.com/DataWookie/talk-breizh-data-day-2018-gentle-bayesian"><i class="fab fa-github"></i></a></li>
   <li>A. B. Collier, "Bayesian Analysis in Python: A Starter Kit", <a href="https://za.pycon.org/">PyCon</a>, Johannesburg, 12 October 2018. <a href="https://github.com/DataWookie/talk-pycon-2018-johannesburg-gentle-bayesian"><i class="fab fa-github"></i></a> <a href="https://www.youtube.com/watch?v=-8VTcuCJF1s"><i class="fab fa-youtube"></i></a></li> <!-- https://archive.org/details/pyconza2018-Bayesian_Analysis_in_Python_A_Starter_Kit -->
   <li>A. B. Collier, "Wading into Stream Analytics", <a href="http://www.sqlsaturday.com/803/EventHome.aspx">SQL Saturday (Durban)</a>, 15 September 2018.</li>
