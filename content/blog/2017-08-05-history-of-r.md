@@ -16,7 +16,7 @@ This is a work in progress. The information is cobbled together from a range of 
 -->
 
 - 2020:
-    - useR! (Boston, MA, USA)
+    - useR! (Boston, USA)
 - 2019:
     - <kbd>R-3.5.3</kbd> "Great Truth" (2019-03-11)
     - [useR!](http://www.user2019.fr/) (Toulouse, France)
