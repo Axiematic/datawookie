@@ -163,6 +163,7 @@ Session chairs:
 -->
 
 <ul>
+  <li>A. B. Collier, "Deploying a Plumber API with Docker", <a href="https://joburg2019.satrdays.org/">satRday</a>, Johannesburg, 6 April 2019.</li>
   <li>A. B. Collier, "Automated Reporting", <a href="https://paris2019.satrdays.org/">satRday</a>, Paris, 23 February 2019.</li>
   <li>A. B. Collier, "Automated Reporting", Lunch & Learn, <a href="https://www.wework.com/en-GB/buildings/aldwych-house--london">Aldwych House WeWork</a>, London, 21 February 2019.</li>
   <li>A. B. Collier, "A Gentle Introduction to Bayesian Methods with Python", <a href="https://breizhdataday.github.io/">Breizh Data Day</a>, Rennes, France, 19 October 2018. <a href="https://github.com/DataWookie/talk-breizh-data-day-2018-gentle-bayesian"><i class="fab fa-github"></i></a></li>
