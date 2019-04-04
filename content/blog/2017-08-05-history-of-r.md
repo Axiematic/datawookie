@@ -18,8 +18,12 @@ This is a work in progress. The information is cobbled together from a range of 
 - 2020:
     - useR! (Boston, MA, USA)
 - 2019:
+    - <kbd>R-3.5.3</kbd> "Great Truth" (2019-03-11)
     - [useR!](http://www.user2019.fr/) (Toulouse, France)
     - [satRday](http://paris2019.satrdays.org/) (Paris, France)
+    - [satRday](https://joburg2019.satrdays.org/) (Johannesburg, South Africa)
+    - [satRday](https://losangeles2019.satrdays.org/) (Los Angeles, USA)
+    - [satRday](https://newcastle2019.satrdays.org/) (Newcastle upon Tyne, UK)
 - 2018:
     - <kbd>R-3.5.2</kbd> "Eggshell Igloo" (2018-12-20)
     - <kbd class="bg-primary">RStudio-1.1.463</kbd> (2018-10-29)
