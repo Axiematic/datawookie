@@ -11,6 +11,7 @@ tags:
 ---
 
 <!--
+	http://www.dicook.org/2018/10/10/content/post/2018-10-10-user2018/
 	https://medium.com/tedx-experience/how-to-organize-a-conference-567fb50ccdbd
 -->
 
