@@ -146,6 +146,8 @@ The `anesrake()` function has three required parameters:
 
 The remaining parameters are optional. The `choosemethod` and `type` parameters affect the way that parameters are selected for inclusion in the weighting procedure. Ideally you want to choose only those parameters where there is a *significant* discrepancy between the sample and population proportions.
 
+One important thing to note is that `anesrake()` does not play nicely with tibbles. So if your data are in a tibble, then convert to a data frame first!
+
 {{< highlight r >}}
 > raking <- anesrake(target,
 +                    survey,
@@ -215,7 +217,7 @@ Total   1.000        10000       1.0000 10000.000 1.0000000  0.007187812  0.0086
 
 The discrepancies in the unweighted results are small and the residual discrepancies after weighting are smaller still (it could have gone the other way too!).
 
-## Survey Results: Weighted versus Unweighted
+## Examining the Weights
 
 It makes sense to inject the weights into the survey data.
 
@@ -240,8 +242,6 @@ What does that look like?
 10     10   happy female  young        0 1.3322952
 {{< /highlight >}}
 
-Characteristics that were oversampled in the survey (like grumpy young females) get a weight smaller than one, while those that were undersampled (like middle aged neutral males) get a weight that is larger than one. Note that since sex was not included in the weighting algorithm, it does not influence weight: the weight for a grumpy young female is the same as that for a grumpy young male.
-
 What is the range of weights?
 
 {{< highlight r >}}
@@ -261,7 +261,32 @@ What is the range of weights?
  0.1803  0.4532  0.8790  1.0000  1.3323  2.2096
 {{< /highlight >}}
 
-The weights are always adjusted so that the average weight is precisely one. Large weights are likely to be problematic. The `cap` parameter to `anesrake()` places an upper limit on the weights in each iteration. The largest weight in our survey falls below the default upper limit of 5.
+The weights are always adjusted so that the average weight is precisely one. Large weights are likely to be problematic. The `cap` parameter to `anesrake()` places an upper limit on the weights in each iteration. The largest weight in our survey falls below the default upper limit of 5. It's always worthwhile checking on the range of weights just so that you are aware of whether they are being capped or not.
+
+## Interpreting the Weights
+
+Characteristics that were oversampled in the survey (like grumpy young females) get a weight smaller than one, while those that were undersampled (like middle aged neutral males) get a weight that is larger than one. Note that since sex was not included in the weighting algorithm, it does not influence weight: the weight for a grumpy young female is the same as that for a grumpy young male.
+
+{{< highlight r >}}
+> survey %>% group_by(mood) %>% summarise(count = n(), weight = sum(weight))
+# A tibble: 3 x 3
+  mood    count weight
+  <fct>   <int>  <dbl>
+1 happy    3308  3000.
+2 neutral  3372  5000.
+3 grumpy   3320  2000.
+> survey %>% group_by(age) %>% summarise(count = n(), weight = sum(weight))
+# A tibble: 3 x 3
+  age    count weight
+  <fct>  <int>  <dbl>
+1 young   3393  5000.
+2 middle  3341  4000.
+3 senior  3266  1000.
+{{< /highlight >}}
+
+Although the proportions of samples (the `count` column) are not consistent with those in the population, the proportions of total weights most definitely are. So as long as we interpret the survey results taking into account these weights them we can be reasonably confident that they represent the population and not just the (possibly biased) survey.
+
+## Effect on Survey Results
 
 What was the effect of raking on the survey results?
 

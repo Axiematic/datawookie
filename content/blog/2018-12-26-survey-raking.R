@@ -95,6 +95,9 @@ head(survey, 10)
 wpct(survey$response)
 wpct(survey$response, survey$weight)
 
+survey %>% group_by(mood) %>% summarise(count = n(), weight = sum(weight))
+survey %>% group_by(age) %>% summarise(count = n(), weight = sum(weight))
+
 raking_summary$general.design.effect
 
 library(Hmisc)
