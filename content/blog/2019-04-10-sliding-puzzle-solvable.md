@@ -69,9 +69,18 @@ The game concept is being implemented using [Unreal Engine](https://www.unrealen
 
 So here's the simple function:
 
-{{% render-code file="blog/2019-04-10-sliding-puzzle-solvable.py" language="python" %}}
+{{% render-code file="/content/blog/2019-04-10-sliding-puzzle-solvable.py" language="python" %}}
 
 Let's give it a test run.
+
+{{< comment >}}
+print(solvable([1, 2, 3, 4, 5, 6, 7, 8, 0])) #  0 -> solvable
+print(solvable([3, 7, 2, 4, 5, 8, 0, 1, 6])) # 12 -> solvable
+print(solvable([1, 3, 4, 7, 0, 2, 5, 8, 6])) #  6 -> solvable
+print(solvable([1, 8, 2, 0, 4, 3, 7, 6, 5])) # 10 -> solvable
+print(solvable([2, 1, 3, 4, 5, 6, 7, 8, 0])) #  1 -> not solvable
+print(solvable([8, 1, 2, 0, 4, 3, 7, 6, 5])) # 11 -> not solvable
+{{< /comment >}}
 
 ```python
 >>> solvable([1, 2, 3, 4, 5, 6, 7, 8, 0])
