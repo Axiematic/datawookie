@@ -41,12 +41,7 @@ A selection of training courses I have given recently:
   <li> Data Science (Head Teacher) , <a href="http://www.ixperience.co.za">iXperience</a>, 2016, 2017 and 2018.
 </ul>
 
-Conferences I have organised:
-<ul>
-  <li> <a href="https://joburg2019.satrdays.org/">#satRday (Johannesburg)</a> (2019)
-  <li> <a href="http://capetown2018.satrdays.org/">#satRday (Cape Town)</a> (2018)
-  <li> <a href="http://capetown2017.satrdays.org/">#satRday (Cape Town)</a> (2017)
-</ul>
+Conferences I have organised: satRday *Johannesburg* (<a href="https://joburg2019.satrdays.org/">2019</a>) and satRday *Cape Town* (<a href="http://capetown2018.satrdays.org/">2018</a> and <a href="http://capetown2017.satrdays.org/">2017</a>).
 
 <h2 class="resume">Education</h2>
 
