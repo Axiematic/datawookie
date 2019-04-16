@@ -9,7 +9,8 @@ title: Andrew B. Collier
 <tr><td><a href="http://www.exegetic.biz/">Exegetic Analytics</a></td><td class="position">Founder & Consulting Data Scientist</td><td class="duration">2008 - present</td></tr>
 <tr><td><a href="https://www.datacamp.com/">DataCamp</a></td><td class="position">Instructor</td><td class="duration">2018 - present</td></tr>
 <tr><td><a href="https://www.toptal.com/">Toptal</a></td><td class="position">Freelance Data Scientist</td><td class="duration">2016 - present</td></tr>
-<tr><td><a href="http://www.derivco.com/">Derivco</a></td><td class="position">Senior Data Scientist</td><td class="duration">2013 - 2017</td></tr>
+<tr><td><a href="http://www.derivco.com/">Derivco</a></td><td class="position">Data Scientist</td><td class="duration">2015 - 2017</td></tr>
+<tr><td><a href="http://www.derivco.com/">Derivco</a></td><td class="position">Game Mathematician</td><td class="duration">2013 - 2015</td></tr>
 <tr><td><a href="https://birkeland.uib.no/">University of Bergen</a> (Norway)</td><td class="position">Researcher</td><td class="duration">2013 - 2014</td></tr>
 <tr><td><a href="http://scp.ukzn.ac.za/">University of KwaZulu-Natal</a> (UKZN)</td><td class="position">Honorary Senior Lecturer</td><td class="duration">2004 - 2015</td></tr>
 <!--
