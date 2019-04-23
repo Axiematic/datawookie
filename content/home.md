@@ -5,9 +5,9 @@ draft = false
 +++
 
 <div class="row">
-	<div class="col-md-12">
-		<div class="wookie-handle text-center">
-			datawookie
+	<div class="col-xs-12">
+		<div>
+			<img class="wookie-logo" src="/img/logo/datawookie.svg" width="100%">
 		</div>
 	</div>
 </div>
