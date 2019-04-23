@@ -7,7 +7,7 @@ draft = false
 <div class="row">
 	<div class="col-xs-12">
 		<div>
-			<img class="wookie-logo" src="/img/logo/datawookie.png" width="100%">
+			<img class="wookie-logo" src="/img/logo/datawookie.svg" width="100%">
 		</div>
 	</div>
 </div>
