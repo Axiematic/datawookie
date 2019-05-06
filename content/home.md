@@ -20,4 +20,9 @@ draft = false
 			<tr><td><i class="fab fa-twitter"></i></td><td><a href="https://twitter.com/datawookie">@datawookie</a></td></tr>
 		</table>
 	</div>
+	<div class="col-sm-6">
+		<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/8838586/activity-summary/fdd0f989f968cda9d06a3a918c14e2de2b8a46fd'></iframe>
+		<iframe height='454' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/8838586/latest-rides/fdd0f989f968cda9d06a3a918c14e2de2b8a46fd'></iframe>
+		<a class="twitter-timeline" data-width="300" href="https://twitter.com/datawookie?ref_src=twsrc%5Etfw">Tweets by datawookie</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+	</div>
 </div>
