@@ -1,15 +1,13 @@
 ---
-draft: true
-title: 'Roselinde Torres: What It Takes to be a Great Leader'
-author: andrew
-type: post
+author: Andrew B. Collier
+title: 'Notes on Leadership'
 date: 2016-04-26T15:00:52+00:00
-categories:
-  - Uncategorized
-tags:
-  - TED Talk
-
+tags: []
+draft: true
 ---
+
+https://www.youtube.com/watch?v=lmyZMtPVodo
+
 Roselinde Torres makes some insightful observations about leadership. Here&#8217;s a selection of germane quotes from her talk, which is well worth watching.
 
 > Great leaders are not head-down. They see around corners, shaping their future, not just reacting to it.<cite>Roselinde Torres</cite>
