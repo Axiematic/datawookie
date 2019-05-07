@@ -53,3 +53,13 @@ Substitute your username.
 13. Start the Ubuntu guest. You should find an icon for the shared folder on the desktop.
 
 You will probably also want to enable copy and paste between host and guest. Select Devices -> Shared Clipboard -> Bidirectional.
+
+## Troubleshooting
+
+If you are having trouble installing packages using `apt-get` then:
+
+1. shut down Ubuntu;
+2. open the Settings dialog for the image and select the Network tab; and
+3. change from "NAT" to "Bridged Adapter".
+
+Try again.
