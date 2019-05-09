@@ -25,14 +25,14 @@ Download the ODBC driver for Ubuntu from [here](https://downloads.teradata.com/d
 Unpack the archive and move into the resulting folder.
 
 {{< highlight bash >}}
-$ tar -zxf tdodbc1620__ubuntu_indep.16.20.00.43-1.tar.gz
+$ tar -zxf tdodbc1620__ubuntu_indep.16.20.00.45-1.tar.gz
 $ cd tdodbc1620/
 {{< /highlight >}}
 
 Take a look around. There should be just a single `.deb` file. Install it.
 
 {{< highlight bash >}}
-$ sudo dpkg -i tdodbc1620-16.20.00.43-1.noarch.deb
+$ sudo dpkg -i tdodbc1620-16.20.00.45-1.noarch.deb
 {{< /highlight >}}
 
 Check that the installation was successful.

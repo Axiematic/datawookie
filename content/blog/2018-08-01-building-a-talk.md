@@ -8,6 +8,8 @@ draft: true
 
 IDEA: The other thing I would suggest to your mentee is to pull out a handful of messages the audience should definitely understand by listening to her talk. They could be the purpose of each of the sections or a series of facts that support her main argument. As long as she accomplishes communicating these few things, it's fine if she forgets or miscommunicates the rest. Helps take away some of the pressure
 
+https://data36.com/presentation-tips-for-data-professionals/
+
 ## Choosing a Topic
 
 Talk about something that

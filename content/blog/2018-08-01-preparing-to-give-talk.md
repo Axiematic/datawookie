@@ -19,3 +19,11 @@ What is the network setup like at the conference?
 A demo is probably one of the riskier things that you can do during a talk. But there are some ways that you can mitigate the risk.
 
 1. Record the demo, so that if things go wrong live then you can always revert to the recording.
+
+## Ways to Start
+
+Three good ways to start a talk:
+
+- With a question.
+- With a fact/statement that shocks or intrigues.
+- "Once upon a time..." (tell a story).

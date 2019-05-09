@@ -1,7 +1,7 @@
 ---
 author: Andrew B. Collier
 date: 2018-10-31T02:00:00Z
-tags: ["tool"]
+tags: ["tool", "speaking"]
 title: Embedding Dependencies into a HTML File
 ---
 

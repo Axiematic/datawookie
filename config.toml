@@ -7,12 +7,16 @@ googleAnalytics = "UA-89552291-2"
 
 paginate = 30
 
+enableEmoji = true
+# enableRobotsTXT = true
+
 # Limit number of entries in RSS feeds.
 #
 rssLimit = 20
 
 pygmentsCodeFences = true
-pygmentsUseClasses = true
+# styles: https://xyproto.github.io/splash/docs/all.html
+pygmentsStyle = "pygments"
 
 [params]
 description = ""

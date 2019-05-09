@@ -33,19 +33,15 @@ sudo apt install -y liblua5.2-dev libboost-all-dev libprotobuf-dev libtbb-dev li
 Now grab the source directly from the repository on GitHub.
 
 {{< highlight bash >}}
-git clone https://github.com/Project-OSRM/osrm-backend.git
+git clone --branch v5.18.0 https://github.com/Project-OSRM/osrm-backend.git
 {{< /highlight >}}
+
+Although you could probably just build from the current state of the repository, I prefer to use a specific [release](https://github.com/Project-OSRM/osrm-backend/releases). So, for example, above I clone and then checkout the v5.18.0 tag.
 
 Move into the source folder.
 
 {{< highlight bash >}}
 cd osrm-backend/
-{{< /highlight >}}
-
-Although you could probably just build from the current state of the repository, it might make sense to choose the most recent [release](https://github.com/Project-OSRM/osrm-backend/releases). So, for example, to checkout version v5.18.0:
-
-{{< highlight bash >}}
-git checkout v5.18.0
 {{< /highlight >}}
 
 Create a `build` folder and then run `cmake` to generate Makefiles.
@@ -285,3 +281,13 @@ A few things to consider:
 - make sure that port 5000 is open in the security group applied to your instance.
 
 ![](/img/2017/09/security-group-port-5000.png)
+
+## OSRM Errors
+
+### Too many table coordinates
+
+If you get a "Too many table coordinates" then increase the table size using command line arguments. The required size can be determined by trial and error.
+
+```bash
+osrm-routed --max-table-size 10000 map.xml.osrm
+```

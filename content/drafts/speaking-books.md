@@ -124,6 +124,10 @@ HAVE COPY IN CALIBRE
 
 ![](/img/2017/11/talk-like-ted.png)
 
+## The Storyteller's Secret
+
+HAVE COPY IN CALIBRE
+
 ## TED Talks
 
 HAVE COPY IN CALIBRE

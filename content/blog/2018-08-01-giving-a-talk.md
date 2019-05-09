@@ -6,9 +6,16 @@ tags: ["speaking", "conference"]
 draft: true
 ---
 
+Don't start by introducing yourself. Start by talking about something that will capture the audience's attention. Then (briefly) say who you are, although actually, this is probably not necessary because your name is in the programme.
+
+https://ideas.ted.com/a-simple-trick-to-help-you-speak-in-public-without-showing-your-nerves/
+
 http://teachlikeachampion.com/blog/what-is-breaking-the-plane
 https://www.youtube.com/watch?v=4UxTgWkFJME
 https://www.tidyverse.org/articles/2018/07/carpe-talk/
+
+Things you thought were important but aren't.
+Things you didn't realise were important.
 
 Say "my friends...". It immediately establishes a relationship between you and the audience.
 

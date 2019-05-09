@@ -3,6 +3,7 @@ author: Andrew B. Collier
 date: 2018-12-14T10:00:00Z
 tags: ['linux']
 title: Citrix Receiver on Ubuntu 18.04
+description: "How to set up access to Citrix from Ubuntu 18.04."
 ---
 
 There's a Debian package available for Citrix Receiver, so in principle this task should be trivial.

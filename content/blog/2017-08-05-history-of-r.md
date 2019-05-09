@@ -18,6 +18,8 @@ This is a work in progress. The information is cobbled together from a range of 
 - 2020:
     - useR! (Boston, USA)
 - 2019:
+    - <kbd>R-3.6.0</kbd> "Planting of a Tree" (2019-04-26)
+    - <kbd class="bg-primary">RStudio-1.2.1335</kbd> (2019-04-08)
     - <kbd>R-3.5.3</kbd> "Great Truth" (2019-03-11)
     - [useR!](http://www.user2019.fr/) (Toulouse, France)
     - [satRday](http://paris2019.satrdays.org/) (Paris, France)
@@ -43,6 +45,8 @@ This is a work in progress. The information is cobbled together from a range of 
     - [satRday](http://cardiff2018.satrdays.org/) (Cardiff, Wales)
     - [satRday](http://belgrade2018.satrdays.org/) (Belgrade, Serbia)
     - [rstudio::conf](https://www.rstudio.com/conference/) (San Diego, CA, USA)
+    - The R Journal ([10/2](https://journal.r-project.org/archive/2018-2/))
+    - The R Journal ([10/1](https://journal.r-project.org/archive/2018-1/))
 - 2017:
     - <kbd>R-3.4.3</kbd> "Kite-Eating Tree" (2017-11-30)
     - <kbd class="bg-primary">RStudio-1.1.383</kbd> (2017-10-09)
@@ -57,6 +61,7 @@ This is a work in progress. The information is cobbled together from a range of 
     - [EARL](https://earlconf.com/) (London; Boston, MA, USA; San Francisco, CA, USA)
     - [R/Finance](http://www.rinfinance.com/) (Chicago, IL, USA)
     - [rstudio::conf](https://www.rstudio.com/conference/) (Kissmmee, FL, USA)
+    - The R Journal ([9/2](https://journal.r-project.org/archive/2017-2/))
     - The R Journal ([9/1](https://journal.r-project.org/archive/2017-1/))
 - 2016:
     - <kbd>R-3.3.2</kbd> "Sincere Pumpkin Patch" (2016-10-31)

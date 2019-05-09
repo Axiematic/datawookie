@@ -3,7 +3,6 @@ author: Andrew B. Collier
 date: 2018-02-05T08:00:00Z
 excerpt_separator: <!-- more -->
 title: SQL Server from Ubuntu
-draft: false
 tags: ["SQL", "Linux"]
 ---
 
@@ -47,7 +46,7 @@ sudo ACCEPT_EULA=Y apt-get install -y mssql-tools
 #
 sudo ACCEPT_EULA=Y apt-get install -y msodbcsql17
 {{< /highlight >}}
-5. Add `PATH=$PATH:/opt/mssql-tools/bin` as the last line of `/etc/bash.bashrc`.
+5. (Optional) Add `PATH=$PATH:/opt/mssql-tools/bin` as the last line of `/etc/bash.bashrc`.
 
 ## Test
 

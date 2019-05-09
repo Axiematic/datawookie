@@ -5,6 +5,8 @@ author: Andrew B. Collier
 
 R and Python are phenomenal tools for Data Science. But you can achieve a lot using simple command line tools too. And sometimes doing pre-processing on the command line can make your work in R or Python more efficient.
 
+In this talk I’ll discuss a selection of command line tools which can easily be factored into your Data Science workflow.
+
 - Downloading data (`wget` and `curl`)
 - Hitting an API (`curl` again)
 - Manipulating CSV ([csvkit](https://csvkit.readthedocs.io/en/latest/) and `awk`)

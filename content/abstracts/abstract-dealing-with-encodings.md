@@ -12,6 +12,7 @@ tags:
 
 <!--
 https://twitter.com/romain_francois/status/967493395739529216/photo/1
+https://irene.rbind.io/post/encoding-in-r/
 
 ALSO SEE BLOG POST WHICH STARTED ON THIS TOPIC.
 -->

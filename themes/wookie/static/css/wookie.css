@@ -285,8 +285,8 @@ a.btn {
 /* LISTS ------------------------------------------------------------------- */
 
 ol, ul {
-  padding-left: 0px;
-  // list-style-position: inside;
+  /* padding-left: 0px; */
+  /* list-style-position: inside; */
 }
 
 li > p {

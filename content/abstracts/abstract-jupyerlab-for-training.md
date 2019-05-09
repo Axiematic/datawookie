@@ -1,5 +1,5 @@
 ---
-title: 'JupyterLab for Next Level Training'
+title: 'Parallel Processing in R'
 date: 2017-09-13T09:30:00+00:00
 author: Andrew B. Collier
 excerpt_separator: <!-- more -->
@@ -18,15 +18,11 @@ https://www.youtube.com/watch?v=BVueLWN2QPc
 
 <div class="talk">
 	<div class="title">
-	JupyterLab for Next Level Training
+	Parallel Processing in R
 	</div>
 	<div class="abstract">
-Many trainers and speakers have adopted Jupyter Notebooks for developing and presenting their material. These notebooks work well both from the perspective of the presenter and the audience.
+It’s a pretty safe bet that the computer you’re running R on has multiple cores. Yet R is single threaded. So all of that extra compute power is sitting dormant.
 
-However, there are some features which are sorely lacking in Jupyter Notebooks which would significantly enhance them as a presentation tool.
-
-JupyterLab has introduced a wide range of new features, many of which can be leveraged to produce more engaging and effective presentations.
-
-I'll demonstrate how JupyterLab can be used to transform your technical presentations.
+How to exploit the full capabilities of your hardware? In this talk I’ll look at ways to easily convert your existing R code to run in parallel across multiple cores. Minor changes to your code can result in a massive increase in computing power!
 	</div>
 </div>

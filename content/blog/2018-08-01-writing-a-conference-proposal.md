@@ -6,6 +6,12 @@ tags: ["speaking", "conference"]
 draft: true
 ---
 
+Finding a conference:
+
+https://eventil.com/
+https://cfp.exchange/
+
+
 A "Call for Proposals" or "Call for Papers" (or just "CfP") is an announcement by a conference that they are accepting talk proposals.
 
 https://medium.com/@fox/how-to-write-a-successful-conference-proposal-4461509d3e32
@@ -128,6 +134,18 @@ Always conform to the proposal constraints. If the conference is asking for an a
 There are some constraints which are often not explicit but are just common sense:
 
 - Choose a short, snappy title (four to ten words is good).
+
+## Who Should Attend? (Who Shouldn't?)
+
+This does not really relate to standard conference talks but is super important if you are giving a workshop or tutorial. It can also be applied to any training event.
+
+The description should clearly state the intended audience. Who should be there and who shouldn't? Who will benefit from the content and who won't.
+
+Why is this important? You don't want to have people in the audience who are already familiar with all of the material. Similarly, they shouldn't be there if they do not have the necessary background for the content to be interesting and useful. Ideally you want to have an audience who is primed and receptive to your content.
+
+Shouldn't the title be enough? Well, in my experience, no. I have given some training which has been clearly pitched as "Introductory" but there have been people in the audience who already knew everything that I had to present. This makes your position as presenter awkward and it also results in a poor experience for these (inappropriate) members of the audience.
+
+So, following the description of what you will be talking about, have two sections which state who should and should not attend. Having clear examples of job roles and experience can help make these more concrete.
 
 ## Proposal Checklist
 

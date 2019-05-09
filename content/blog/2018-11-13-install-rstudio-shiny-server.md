@@ -41,7 +41,7 @@ sudo rstudio-server verify-installation
 
 5. RStudio Server runs on port 8787, so you should be able to access it in a browser at `http://<server-ip>:8787`.
 
-Find out more about [managing the server](https://support.rstudio.com/hc/en-us/articles/200532327-Managing-the-Server).
+Find out more about [configuring](https://support.rstudio.com/hc/en-us/articles/200552316-Configuring-the-Server) and [managing](https://support.rstudio.com/hc/en-us/articles/200532327-Managing-the-Server) the server.
 
 ### Whether or not to Start at Boot
 
@@ -100,3 +100,7 @@ You can also disable Shiny Server being automatically started at boot.
 # Disable Shiny Server at boot.
 sudo systemctl disable shiny-server
 {{< /highlight >}}
+
+### Installing Apps
+
+You should install apps into folders below `/srv/shiny-server`. Also ensure that all of the files in the app (source) are owned by `shiny.shiny`.

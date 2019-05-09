@@ -8,7 +8,7 @@ draft: true
 
 https://www.tidyverse.org/articles/2018/07/carpe-talk/
 
-
+CREATE A WEBSITE FOR SLIDES: https://github.com/rinprod/rinprod.com
 
 
 

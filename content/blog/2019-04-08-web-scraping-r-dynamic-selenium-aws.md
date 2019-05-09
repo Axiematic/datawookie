@@ -1,8 +1,8 @@
 ---
-title: 'Remote Access to Selenium on EC2'
+title: 'Web Scraping with R: Dynamic Sites with Selenium'
 date: 2018-08-01T09:30:00+00:00
 author: Andrew B. Collier
-tags: ["aws", "web scraping", "Docker"]
+tags: ["R", "web scraping"]
 draft: true
 ---
 
