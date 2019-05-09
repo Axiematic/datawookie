@@ -12,6 +12,21 @@ https://twitter.com/unspiced/status/1017417780864454657/photo/1
 <!-- OPTION 1: AZURE                                                                            -->
 <!-- ========================================================================================== -->
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 {{< abstract title="Wading into Stream Analytics" >}}
 	{{< abstract-short >}}
 Setting up analytics on streaming data in real time.
