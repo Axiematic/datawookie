@@ -136,4 +136,4 @@ The dissimilarity matrix paints yet another picture of the data. In this view MS
 
 A different view of these data would obviously have been obtained if we had clustered the returns rather than the closing prices themselves.
 
-The code for this post is available [here](https://gist.github.com/DataWookie/3af150ef28a9f14fe3758d816810ae9f).
+<!-- The code for this post is available [here](https://gist.github.com/DataWookie/3af150ef28a9f14fe3758d816810ae9f). -->
