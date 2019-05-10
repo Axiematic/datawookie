@@ -24,13 +24,19 @@ These are my notes. Essentially the same, with some small variations.
 2. Download the distribution.
 
 	{{< highlight bash >}}
-wget https://download2.rstudio.org/rstudio-server-1.1.463-amd64.deb
+wget https://download2.rstudio.org/server/trusty/amd64/rstudio-server-1.2.1335-amd64.deb
 {{< /highlight >}}
 
 3. Install the server.
 
 	{{< highlight bash >}}
-sudo dpkg -i rstudio-server-1.1.463-amd64.deb
+sudo dpkg -i rstudio-server-1.2.1335-amd64.deb
+{{< /highlight >}}
+
+If this generates an error you can run the following then try again.
+
+	{{< highlight bash >}}
+sudo apt-get --fix-broken install
 {{< /highlight >}}
 
 4. Verify the installation.
@@ -40,8 +46,6 @@ sudo rstudio-server verify-installation
 {{< /highlight >}}
 
 5. RStudio Server runs on port 8787, so you should be able to access it in a browser at `http://<server-ip>:8787`.
-
-Find out more about [configuring](https://support.rstudio.com/hc/en-us/articles/200552316-Configuring-the-Server) and [managing](https://support.rstudio.com/hc/en-us/articles/200532327-Managing-the-Server) the server.
 
 ### Whether or not to Start at Boot
 
@@ -66,7 +70,24 @@ sudo systemctl start rstudio-server
 
 # Stop RStudio Server.
 sudo systemctl stop rstudio-server
+
+# Stop and then start RStudio Server.
+sudo systemctl restart rstudio-server
 {{< /highlight >}}
+
+### Configuration Options
+
+Configuration settings are stored in `/etc/rstudio/rserver.conf`.
+
+One of the most common configuration changes that I make is to change the port on which RStudio Server is running. This can be done by adding the following line to the above configuration file:
+
+{{< highlight bash >}}
+www-port=80
+{{< /highlight >}}
+
+After making any changes to the configuration you need to restart the server.
+
+Find out more about [configuring](https://support.rstudio.com/hc/en-us/articles/200552316-Configuring-the-Server) and [managing](https://support.rstudio.com/hc/en-us/articles/200532327-Managing-the-Server) the server.
 
 ## Shiny Server
 
