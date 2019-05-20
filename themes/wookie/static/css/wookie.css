@@ -264,6 +264,10 @@ ul.pagination {
   background-color: #ddd;
 }
 
+.pagination-bottom {
+  padding-top: 2%;
+}
+
 th, td {
   vertical-align: baseline;
 }
